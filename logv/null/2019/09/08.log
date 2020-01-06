@@ -1,8 +1,0 @@
-Sep 08, 2019 7:52:38 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-19 null
-Sep 08, 2019 7:52:38 PM modul.Logv run
-INFO: Thread-19 {"datetime":"2019-09-08 19:52:38 ","resultcode":"0009"}
-Sep 08, 2019 7:53:13 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-23 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
-Sep 08, 2019 7:53:13 PM modul.Logv run
-INFO: Thread-23 {"datetime":"2019-09-08 19:53:13 ","resultcode":"0009"}

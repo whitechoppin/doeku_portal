@@ -1,8 +1,0 @@
-Aug 21, 2018 12:19:53 AM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REJECT_RENT","id_trans":"TRB0000000007","id_idn":"PAI00005","counter":19802}
-Aug 21, 2018 12:19:53 AM modul.Logv run
-INFO: Thread-4 {"com":"REJECT_RENT","datetime":"2018-08-21 00:19:52","data":[],"resultcode":"0000"}
-Aug 21, 2018 3:48:51 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"TARIK_DANA","id_idn":"PAI00005","bank":"danamon","jumlah":300000,"norek":"78907828872784","atas_nama":"tester","counter":99950}
-Aug 21, 2018 3:48:51 PM modul.Logv run
-INFO: Thread-4 {"com":"TARIK_DANA","datetime":"2018-08-21 15:48:51","jumlah":300000,"id_idn":"PAI00005","resultcode":"0000","counter":99950}

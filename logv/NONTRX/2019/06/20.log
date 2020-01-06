@@ -1,4 +1,0 @@
-Jun 20, 2019 4:05:34 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":91282}
-Jun 20, 2019 4:05:34 PM modul.Logv run
-INFO: Thread-4 {"com":"LIST_PINJAMAN","datetime":"2019-06-20 16:05:33 ","data":[],"id_idn":"PAI00003","resultcode":"0000"}

@@ -1,4 +1,0 @@
-Jul 30, 2019 4:16:23 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"PINJAM_BRW","id_brw":"PAB00008","nova":"1722212399336893","jumlah":500000,"tenor":30,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":90106}
-Jul 30, 2019 4:16:23 PM modul.Logv run
-INFO: Thread-4 {"result":"ID Tidak Dikenali","com":"PINJAM_BRW","datetime":"2019-07-30 16:16:22 ","resultcode":"0001","counter":90106}

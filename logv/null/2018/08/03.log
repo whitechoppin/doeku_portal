@@ -1,8 +1,0 @@
-Aug 03, 2018 9:31:53 AM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-3 {"com":"PAY_SPRINT","auth":"34jlk3423","amount":1500000,"trans_date":"2018-07-22 12:40:59","cus_account":"1722200987654325","reff_id":"153938694","stat":"11","flag":"12","insert":"5232342","counter":57062}
-Aug 03, 2018 9:31:53 AM modul.Logv run
-INFO: Thread-3 {"datetime":"2018-08-03 09:31:53 ","resultcode":"0002"}
-Aug 03, 2018 9:41:23 AM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-6 {"com":"PAY_SPRINT","auth":"34jlk3423","amount":1500000,"trans_date":"2018-07-22 12:40:59","cus_account":"1722381242300333","reff_id":"153938694","stat":"11","flag":"12","insert":"5232342","counter":57062}
-Aug 03, 2018 9:41:23 AM modul.Logv run
-INFO: Thread-6 {"datetime":"2018-08-03 09:41:23 ","resultcode":"0002"}

@@ -1,4 +1,0 @@
-Sep 05, 2019 11:33:02 AM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-7 {"com":"VERIFY_NUMB","nomor":"085241409231","counter":91521}
-Sep 05, 2019 11:33:02 AM modul.Logv run
-INFO: Thread-7 {"com":"VERIFY_NUMB","datetime":"2019-09-05 ","resultcode":"0000","counter":91521}

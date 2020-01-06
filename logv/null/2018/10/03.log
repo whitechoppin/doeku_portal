@@ -1,4 +1,0 @@
-Oct 03, 2018 11:07:19 AM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"foto_npwp":"-","foto_ktp":"https=>\\\/\\\/pinjamaja.com\\\/files\\\/registrasi\\\/nasabah\\\/fotoktp.JPG","foto_diri":"https=>\\\/\\\/pinjamaja.com\\\/files\\\/registrasi\\\/nasabah\\\/fotodiri.JPG","foto_slip":"https=>\\\/\\\/pinjamaja.com\\\/files\\\/registrasi\\\/nasabah\\\/fotoslip.JPG","latitude":"119.432677","longitude":"-5.147652","counter":64109,"com":"REGIST_BRW"}
-Oct 03, 2018 11:07:19 AM modul.Logv run
-INFO: Thread-4 {"datetime":"2018-10-03 11:07:18 ","resultcode":"0009"}

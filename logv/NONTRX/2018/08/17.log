@@ -1,4 +1,0 @@
-Aug 17, 2018 12:26:48 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REQ_V","nomor":"085241409211","counter":41812}
-Aug 17, 2018 12:26:48 PM modul.Logv run
-INFO: Thread-4 {"com":"REQ_V","datetime":"2018-08-17 12:26:47 ","resultcode":"0000","no_telp":"+6285241409211","counter":41812}

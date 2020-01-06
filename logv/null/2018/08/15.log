@@ -1,4 +1,0 @@
-Aug 15, 2018 1:12:11 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_ACC_PINJAM","id_idn":"PAI00005","counter":84282}
-Aug 15, 2018 1:12:11 PM modul.Logv run
-INFO: Thread-4 {"datetime":"2018-08-15 13:12:11 ","resultcode":"0009"}

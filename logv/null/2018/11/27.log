@@ -1,4 +1,0 @@
-Nov 27, 2018 9:27:08 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-3 {"com":"REGIST","n_dagang":"TES123","n_usaha":"TESv","nama":"coba","email":"abc@gmail.com","jenkel":"Pria","telp":"0411234211","situs":"www.abc.com","pass":"1234567","counter":78052}
-Nov 27, 2018 9:27:08 PM modul.Logv run
-INFO: Thread-3 {"datetime":"2018-11-27 21:27:08 ","resultcode":"0002"}

@@ -1,8 +1,0 @@
-Nov 08, 2017 11:18:51 AM modul.Logv run
-SEVERE: Thread-14 <dpay><com>CEKUSER</com><iduser>DPAY00002</iduser><pass>cb457336946a55922d6ef776c00fafb4</pass><counter>46795</counter></dpay>
-Nov 08, 2017 11:18:51 AM modul.Logv run
-INFO: Thread-14 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-11-08 11:18:51 </datetime><com>CEKUSER</com><iduser>DPAY00002</iduser><email>tester2345@gmail.com</email><ktp>9388203453498031</ktp><depousd>3.5483</depousd><depoidr>70000</depoidr><depoeur>13.2234</depoeur><counter>46795</counter></dpay>
-Nov 08, 2017 11:19:48 AM modul.Logv run
-SEVERE: Thread-19 <dpay><com>CEKUSER</com><iduser>DPAY00001</iduser><pass>3c34d7c68cab425654d557c8945bd235</pass><counter>51778</counter></dpay>
-Nov 08, 2017 11:19:48 AM modul.Logv run
-INFO: Thread-19 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0003</resultcode><datetime>2017-11-08 11:19:48 </datetime><com>CEKUSER</com></dpay>

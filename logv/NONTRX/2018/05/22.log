@@ -1,4 +1,0 @@
-May 22, 2018 12:19:10 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332551","npwp":"948123198910","email":"bisa mi@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA 2","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":67054}
-May 22, 2018 12:19:10 PM modul.Logv run
-INFO: Thread-4 {"resulcode":"0000","com":"REGIST_INV","datetime":"2018-05-22 12:19:09 ","counter":67054}

@@ -1,8 +1,0 @@
-Mar 12, 2019 10:32:53 AM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00001","code":"12345678","pass":"cbc0fd25f80250e79a53efea30a82491","ipku":"12345","counter":93111}
-Mar 12, 2019 10:32:53 AM modul.Logv run
-INFO: Thread-4 {"datetime":"2019-03-12 10:32:52 ","resultcode":"0009"}
-Mar 12, 2019 12:17:55 PM modul.Logv run
-SEVERE: IPv:/127.0.0.1Thread-16 {"com":"REGIST_IDN","nama":"IDNestku","alamat":"jl. tes","ktp":"725453453328911","npwp":"948123198555","email":"vt3st3r@gmail.com","telp_pribadi":"081232331255","sumber":"majalah","kantor":"PT PINJAM AJA 3","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","from_rr":3100000,"to_rr":10000000,"jum_dana":20000000,"durasi":360,"pass":"333111","counter":84978}
-Mar 12, 2019 12:17:55 PM modul.Logv run
-INFO: Thread-16 {"datetime":"2019-03-12 12:17:55 ","resultcode":"0009"}
