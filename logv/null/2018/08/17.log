@@ -1,0 +1,4 @@
+Aug 17, 2018 12:25:01 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REQ_V","nomor":"085241409211","counter":68414}
+Aug 17, 2018 12:25:01 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-17 12:25:00 ","resultcode":"0009"}

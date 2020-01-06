@@ -1,0 +1,8 @@
+Aug 05, 2018 10:55:58 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-3 {"com":"ACC_PINJAM","id_trx":"TRB0000000001","counter":55425}
+Aug 05, 2018 10:55:58 PM modul.Logv run
+INFO: Thread-3 {"datetime":"2018-08-05 22:55:57 ","resultcode":"0002"}
+Aug 05, 2018 11:18:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-3 {"com":"LIST_PINJAM","id_idn":"PAI00003","counter":23985}
+Aug 05, 2018 11:18:51 PM modul.Logv run
+INFO: Thread-3 {"datetime":"2018-08-05 23:18:51 ","resultcode":"0002"}

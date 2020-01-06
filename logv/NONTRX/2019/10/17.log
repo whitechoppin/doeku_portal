@@ -1,0 +1,4 @@
+Oct 17, 2019 2:07:47 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_PINJAM","id_trx":"TRB0000000001","counter":87846}
+Oct 17, 2019 2:07:47 PM modul.Logv run
+INFO: Thread-4 {"com":"CEK_PINJAM","jum_awal":"3000000","jum_trf":"0","jatuh_tempo":"2019-10-31","cicil":"0","bg":"0.153","jum_pinjam":"2880000","asuransi":"60000","id_trx":"TRB0000000001","bunga":"54600","status_pinjam":null,"sisa":"3054600","datetime":"2019-10-17 14:07:41 ","total":"3054600","tenor":"14","biaya":"60000","id_idn":"PAI00005","id_brw":"PAB00006","bayar":0,"resultcode":"0000","sisa_hari":null,"setuju":false}

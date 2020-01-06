@@ -1,0 +1,72 @@
+Aug 06, 2018 11:43:41 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":12713}
+Aug 06, 2018 11:43:41 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:43:41 ","data":["{\"data\":1,\"jumlah\":\"1300000\",\"tgl\":\"2018-06-02\",\"waktu\":\"05:33:11\"}","{\"data\":2,\"jumlah\":\"1400000\",\"tgl\":\"2018-07-03\",\"waktu\":\"16:40:59\"}","{\"data\":3,\"jumlah\":\"1500000\",\"tgl\":\"2018-07-22\",\"waktu\":\"12:40:59\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 11:44:26 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":75316}
+Aug 06, 2018 11:44:26 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:44:26 ","data":["{\"data\":1,\"jumlah\":\"1300000\",\"tgl\":\"2018-06-02\",\"waktu\":\"05:33:11\"}","{\"data\":2,\"jumlah\":\"1400000\",\"tgl\":\"2018-07-03\",\"waktu\":\"16:40:59\"}","{\"data\":3,\"jumlah\":\"1500000\",\"tgl\":\"2018-07-22\",\"waktu\":\"12:40:59\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 11:47:14 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":14490}
+Aug 06, 2018 11:47:14 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:47:13 ","data":["{\"data\":1,\"jumlah\":\"1300000\",\"tgl\":\"2018-06-02\",\"waktu\":\"05:33:11\"}","{\"data\":2,\"jumlah\":\"1400000\",\"tgl\":\"2018-07-03\",\"waktu\":\"16:40:59\"}","{\"data\":3,\"jumlah\":\"1500000\",\"tgl\":\"2018-07-22\",\"waktu\":\"12:40:59\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 11:53:14 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":12620}
+Aug 06, 2018 11:53:15 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:53:14 ","data":["{\"data\":1,\"jumlah\":\"1300000\",\"tgl\":\"2018-06-02\",\"waktu\":\"05:33:11\"}","{\"data\":2,\"jumlah\":\"1400000\",\"tgl\":\"2018-07-03\",\"waktu\":\"16:40:59\"}","{\"data\":3,\"jumlah\":\"1500000\",\"tgl\":\"2018-07-22\",\"waktu\":\"12:40:59\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 11:54:41 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":22919}
+Aug 06, 2018 11:54:41 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:54:40 ","data":["{\"data\":1,\"jumlah\":\"1300000\",\"tgl\":\"2018-06-02\",\"waktu\":\"05:33:11\"}","{\"data\":2,\"jumlah\":\"1400000\",\"tgl\":\"2018-07-03\",\"waktu\":\"16:40:59\"}","{\"data\":3,\"jumlah\":\"1500000\",\"tgl\":\"2018-07-22\",\"waktu\":\"12:40:59\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 11:57:09 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":90450}
+Aug 06, 2018 11:57:09 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:57:08 ","data":false,"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 11:58:11 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":57178}
+Aug 06, 2018 11:58:11 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:58:11 ","data":false,"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 11:58:44 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":11252}
+Aug 06, 2018 11:58:44 AM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 11:58:43 ","data":["{\"data\":1,\"jumlah\":\"1300000\",\"tgl\":\"2018-06-02\",\"waktu\":\"05:33:11\"}","{\"data\":2,\"jumlah\":\"1400000\",\"tgl\":\"2018-07-03\",\"waktu\":\"16:40:59\"}","{\"data\":3,\"jumlah\":\"1500000\",\"tgl\":\"2018-07-22\",\"waktu\":\"12:40:59\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 12:01:03 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":36540}
+Aug 06, 2018 12:01:03 PM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","datetime":"2018-08-06 12:01:02 ","data":["{\"jumlah\":\"1300000\",\"tgl\":\"2018-06-02\",\"waktu\":\"05:33:11\",\"urut\":1}","{\"jumlah\":\"1400000\",\"tgl\":\"2018-07-03\",\"waktu\":\"16:40:59\",\"urut\":2}","{\"jumlah\":\"1500000\",\"tgl\":\"2018-07-22\",\"waktu\":\"12:40:59\",\"urut\":3}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 4:21:33 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":77675}
+Aug 06, 2018 4:21:33 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor1":"30","tenor2":"80","jumlah1":"500000","jumlah2":"1000000","total":2,"datetime":"2018-08-06 16:21:33 ","alasan1":"uang sekolah","id_brw2":"PAB00010","id_brw1":"PAB00005","id_idn":"PAI00003","id_trxb2":"TRB0000000002","id_trxb1":"TRB0000000001","resultcode":"0000","alasan2":"biaya sekolah saudara"}
+Aug 06, 2018 4:36:56 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":56337}
+Aug 06, 2018 4:36:56 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor":"80","total":2,"datetime":"2018-08-06 16:36:56 ","jumlah":"1000000","id_idn":"PAI00003","id_trxb":"TRB0000000002","id_brw":"PAB00010","resultcode":"0000","alasan":"biaya sekolah saudara"}
+Aug 06, 2018 4:39:33 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":40566}
+Aug 06, 2018 4:39:33 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor":"80","datetime":"2018-08-06 16:39:33 ","jumlah":"1000000","data":["{\"urut\":1}","{\"urut\":2}"],"id_idn":"PAI00003","id_trxb":"TRB0000000002","id_brw":"PAB00010","resultcode":"0000","alasan":"biaya sekolah saudara"}
+Aug 06, 2018 4:40:32 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":33609}
+Aug 06, 2018 4:40:32 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor":"80","datetime":"2018-08-06 16:40:32 ","jumlah":"1000000","data":["{\"urut\":1}","{\"urut\":2}"],"id_idn":"PAI00003","id_trxb":"TRB0000000002","id_brw":"PAB00010","resultcode":"0000","alasan":"biaya sekolah saudara"}
+Aug 06, 2018 4:42:18 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":21771}
+Aug 06, 2018 4:42:18 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor":"80","datetime":"2018-08-06 16:42:17 ","jumlah":"1000000","data":["{\"urut\":1}","{\"urut\":2}"],"id_idn":"PAI00003","id_trxb":"TRB0000000002","id_brw":"PAB00010","resultcode":"0000","alasan":"biaya sekolah saudara"}
+Aug 06, 2018 4:43:30 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":24230}
+Aug 06, 2018 4:43:30 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor":"80","datetime":"2018-08-06 16:43:30 ","jumlah":"1000000","data":["{\"urut\":1}","{\"urut\":2}"],"id_idn":"PAI00003","id_trxb":"TRB0000000002","id_brw":"PAB00010","resultcode":"0000","alasan":"biaya sekolah saudara"}
+Aug 06, 2018 4:44:55 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":47350}
+Aug 06, 2018 4:44:55 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","datetime":"2018-08-06 16:44:55 ","data":["{\"tenor\":\"30\",\"jumlah\":\"500000\",\"id_trxb\":\"TRB0000000001\",\"id_brw\":\"PAB00005\",\"urut\":1,\"alasan\":\"uang sekolah\"}","{\"tenor\":\"80\",\"jumlah\":\"1000000\",\"id_trxb\":\"TRB0000000002\",\"id_brw\":\"PAB00010\",\"urut\":2,\"alasan\":\"biaya sekolah saudara\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 4:46:55 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":55296}
+Aug 06, 2018 4:46:55 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","datetime":"2018-08-06 16:46:55 ","data":["{\"tenor\":\"30\",\"jumlah\":\"500000\",\"foto\":\"tes-diri\",\"id_trxb\":\"TRB0000000001\",\"id_brw\":\"PAB00005\",\"urut\":1,\"alasan\":\"uang sekolah\"}","{\"tenor\":\"80\",\"jumlah\":\"1000000\",\"foto\":\"tes-diri\",\"id_trxb\":\"TRB0000000002\",\"id_brw\":\"PAB00010\",\"urut\":2,\"alasan\":\"biaya sekolah saudara\"}"],"id_idn":"PAI00003","resultcode":"0000"}
+Aug 06, 2018 4:56:22 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":57109}
+Aug 06, 2018 4:56:22 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","datetime":"2018-08-06 16:56:22 ","data":["{\"tenor\":\"30\",\"jumlah\":\"500000\",\"foto\":\"tes-diri\",\"id_trxb\":\"TRB0000000001\",\"id_brw\":\"PAB00005\",\"urut\":1,\"alasan\":\"uang sekolah\"}","{\"tenor\":\"80\",\"jumlah\":\"1000000\",\"foto\":\"tes-diri\",\"id_trxb\":\"TRB0000000002\",\"id_brw\":\"PAB00010\",\"urut\":2,\"alasan\":\"biaya sekolah saudara\"}"],"id_idn":"PAI00003","resultcode":"0000"}

@@ -1,0 +1,12 @@
+Jun 19, 2019 12:17:52 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":54145}
+Jun 19, 2019 12:17:52 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","datetime":"2019-06-19 12:17:51 ","data":[],"id_idn":"PAI00003","resultcode":"0000"}
+Jun 19, 2019 12:32:52 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":85281}
+Jun 19, 2019 12:32:52 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","datetime":"2019-06-19 12:32:51 ","data":[],"id_idn":"PAI00003","resultcode":"0000"}
+Jun 19, 2019 12:33:02 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":39393}
+Jun 19, 2019 12:33:02 PM modul.Logv run
+INFO: Thread-8 {"com":"LIST_PINJAMAN","datetime":"2019-06-19 12:33:01 ","data":[],"id_idn":"PAI00003","resultcode":"0000"}

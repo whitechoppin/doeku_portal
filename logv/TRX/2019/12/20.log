@@ -1,0 +1,144 @@
+Des 20, 2019 10:27:17 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:27:17 AM modul.Logv run
+INFO: Thread-12 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:27:05 ","resultcode":"0000","counter":63432,"nova":"9880044419122001"}
+Des 20, 2019 10:29:19 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:29:19 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:29:12 ","resultcode":"0000","counter":63432,"nova":"9880044419122003"}
+Des 20, 2019 10:34:53 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:34:53 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:34:47 ","resultcode":"0000","counter":63432,"nova":"9880044419122005"}
+Des 20, 2019 10:36:00 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:36:00 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:35:56 ","resultcode":"0000","counter":63432,"nova":"9880044419122007"}
+Des 20, 2019 10:37:00 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:37:00 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:36:56 ","resultcode":"0000","counter":63432,"nova":"9880044419122009"}
+Des 20, 2019 10:38:38 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:38:38 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:38:33 ","resultcode":"0000","counter":63432,"nova":"9880044419122011"}
+Des 20, 2019 10:39:01 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:39:01 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:38:58 ","resultcode":"0000","counter":63432,"nova":"9880044419122013"}
+Des 20, 2019 10:40:13 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:40:13 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:40:10 ","resultcode":"0000","counter":63432,"nova":"9880044419122015"}
+Des 20, 2019 10:40:53 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:40:53 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:40:48 ","resultcode":"0000","counter":63432,"nova":"9880044419122017"}
+Des 20, 2019 10:41:39 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:41:39 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:41:34 ","resultcode":"0000","counter":63432,"nova":"9880044419122019"}
+Des 20, 2019 10:43:39 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:43:39 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:43:31 ","resultcode":"0000","counter":63432,"nova":"9880044419122021"}
+Des 20, 2019 10:45:14 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:45:14 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:45:08 ","resultcode":"0000","counter":63432,"nova":"9880044419122023"}
+Des 20, 2019 10:51:21 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:51:21 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:50:54 ","resultcode":"0000","counter":63432,"nova":"9880044419122025"}
+Des 20, 2019 10:54:45 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":63432}
+Des 20, 2019 10:54:45 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 10:54:39 ","resultcode":"0000","counter":63432,"nova":"9880044419122027"}
+Des 20, 2019 11:18:52 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-11 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:18:52 AM modul.Logv run
+INFO: Thread-11 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:18:48 ","resultcode":"0000","counter":63432,"nova":"9880044419122029"}
+Des 20, 2019 11:19:12 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:19:12 AM modul.Logv run
+INFO: Thread-7 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:19:07 ","resultcode":"0000","counter":63432,"nova":"9880044419122031"}
+Des 20, 2019 11:20:26 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:20:26 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:20:18 ","resultcode":"0000","counter":63432,"nova":"9880044419122033"}
+Des 20, 2019 11:32:26 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:32:26 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:32:17 ","resultcode":"0000","counter":63432,"nova":"9880044419122035"}
+Des 20, 2019 11:34:05 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-15 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:34:05 AM modul.Logv run
+INFO: Thread-15 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:33:59 ","resultcode":"0000","counter":63432,"nova":"9880044419122037"}
+Des 20, 2019 11:34:41 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:34:41 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:34:33 ","resultcode":"0000","counter":63432,"nova":"9880044419122039"}
+Des 20, 2019 11:37:55 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:37:55 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:37:45 ","resultcode":"0000","counter":63432,"nova":"9880044419122041"}
+Des 20, 2019 11:39:04 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:39:04 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:38:56 ","resultcode":"0000","counter":63432,"nova":"9880044419122043"}
+Des 20, 2019 11:41:46 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:41:46 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:41:37 ","resultcode":"0000","counter":63432,"nova":"9880044419122045"}
+Des 20, 2019 11:44:10 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:44:10 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:44:02 ","resultcode":"0000","counter":63432,"nova":"9880044419122047"}
+Des 20, 2019 11:47:07 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 11:47:07 AM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 11:46:59 ","resultcode":"0000","counter":63432,"nova":"9880044419122051"}
+Des 20, 2019 1:47:33 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 1:47:33 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 13:47:20 ","resultcode":"0000","counter":63432,"nova":"9880044419122059"}
+Des 20, 2019 1:48:35 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 1:48:35 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 13:48:29 ","resultcode":"0000","counter":63432,"nova":"9880044419122061"}
+Des 20, 2019 1:50:23 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 1:50:23 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 13:50:17 ","resultcode":"0000","counter":63432,"nova":"9880044419122063"}
+Des 20, 2019 1:51:04 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 1:51:04 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 13:50:58 ","resultcode":"0000","counter":63432,"nova":"9880044419122065"}
+Des 20, 2019 1:52:01 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 1:52:01 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 13:51:56 ","resultcode":"0000","counter":63432,"nova":"9880044419122067"}
+Des 20, 2019 1:53:54 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 1:53:54 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 13:53:47 ","resultcode":"0000","counter":63432,"nova":"9880044419122069"}
+Des 20, 2019 2:42:12 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 2:42:12 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 14:41:54 ","resultcode":"0000","counter":63432,"nova":"9880044419122071"}
+Des 20, 2019 2:43:03 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 2:43:03 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 14:42:41 ","resultcode":"0000","counter":63432,"nova":"9880044419122073"}
+Des 20, 2019 2:48:17 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-15 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Des 20, 2019 2:48:17 PM modul.Logv run
+INFO: Thread-15 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 14:48:03 ","resultcode":"0000","counter":63432,"nova":"9880044419122075"}
+Dec 20, 2019 3:55:12 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-15 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Dec 20, 2019 3:55:12 PM modul.Logv run
+INFO: Thread-15 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 15:55:06 ","resultcode":"0000","counter":63432,"nova":"9880044419122081"}
+Dec 20, 2019 3:55:50 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-22 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00001","rekam_suara":"suaraku","rekam_diri":"diriku","no_doc_peminjam":"1234566","no_doc_pendana":"12312312312","rekam_loc":"locku","counter":63432}
+Dec 20, 2019 3:55:50 PM modul.Logv run
+INFO: Thread-22 {"com":"ACC_IDN_PINJAM","datetime":"2019-12-20 15:55:45 ","resultcode":"0000","counter":63432,"nova":"9880044419122083"}

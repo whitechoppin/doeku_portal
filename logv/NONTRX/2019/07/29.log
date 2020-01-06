@@ -1,0 +1,4 @@
+Jul 29, 2019 11:10:19 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":96135}
+Jul 29, 2019 11:10:19 AM modul.Logv run
+INFO: Thread-4 {"com":"CEK_IDN_I","provinsi":"coba prov","tgl_masuk":"2019-07-26 10:34:23 ","telp_pribadi":"081232331255","kota_lahir":"Makassar","datetime":"2019-07-29 11:10:19 ","bank":"Mandiri","id_idn":"PAI00001","foto_diri":"tes_diri","email":"vt3st3r@gmail.com","nova":"1722381232331255","kota":"coba kota","ktp":"725453453328911","foto_npwp":"tes_npwp","foto_ktp":"tes_ktp","saldo":0,"counter":96135,"kelurahan":"coba lurah","tgl_lahir":"1990-07-07","alamat":null,"nama":"IDNestku","norek":"248758398","kecamatan":"coba camat","resultcode":"0000","atas_nama":"john"}

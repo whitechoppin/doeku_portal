@@ -1,0 +1,4 @@
+Aug 15, 2019 3:48:39 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_BRW","idbrw":"PAB00001","counter":11694}
+Aug 15, 2019 3:48:39 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-08-15 15:48:38 ","resultcode":"0009"}

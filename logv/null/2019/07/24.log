@@ -1,0 +1,32 @@
+Jul 24, 2019 10:15:02 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_IDN_I","nama":"IDNestku","alamat":"jl. tes","ktp":"725453453328911","email":"vt3st3r@gmail.com","telp_pribadi":"081232331255","sumber":"majalah","norek":"248758398","nama_rek":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kode_pos":"39012","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","pass":"333111","counter":33277}
+Jul 24, 2019 10:15:02 AM modul.Logv run
+INFO: Thread-8 {"datetime":"2019-07-24 10:15:02 ","resultcode":"0009"}
+Jul 24, 2019 10:29:26 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN_I","nama":"IDNestku","alamat":"jl. tes","ktp":"725453453328911","email":"vt3st3r@gmail.com","telp_pribadi":"081232331255","sumber":"majalah","norek":"248758398","nama_rek":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kode_pos":"39012","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","pass":"333111","counter":80784}
+Jul 24, 2019 10:29:26 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-24 10:29:25 ","resultcode":"0009"}
+Jul 24, 2019 11:40:39 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_IDN_P","nama":"IDNestku 2","alamat":"jl. tes","email":"vtrez7@gmail.com","telp_pribadi":"081242321217","sumber":"majalah","norek":"248758398","kode_pos":"39012","nama_rek":"john","bank":"Mandiri","foto_siup":"tes_siup","foto_tdp":"tes_tdp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","foto_sk":"tes_sk","foto_akta":"tes_akta","pass":"333111","counter":11911}
+Jul 24, 2019 11:40:39 AM modul.Logv run
+INFO: Thread-8 {"datetime":"2019-07-24 11:40:39 ","resultcode":"0009"}
+Jul 24, 2019 11:41:21 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN_P","nama":"IDNestku 2","alamat":"jl. tes","email":"vtrez7@gmail.com","telp_pribadi":"081242321217","sumber":"majalah","norek":"248758398","kode_pos":"39012","nama_rek":"john","bank":"Mandiri","foto_siup":"tes_siup","foto_tdp":"tes_tdp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","foto_sk":"tes_sk","foto_akta":"tes_akta","pass":"333111","counter":83523}
+Jul 24, 2019 11:41:21 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-24 11:41:20 ","resultcode":"0009"}
+Jul 24, 2019 11:49:09 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN_P","nama":"IDNestku 2","alamat":"jl. tes","email":"vtrez7@gmail.com","telp_pribadi":"081242321217","sumber":"majalah","norek":"248758398","kode_pos":"39012","nama_rek":"john","bank":"Mandiri","foto_siup":"tes_siup","foto_tdp":"tes_tdp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","foto_sk":"tes_sk","foto_akta":"tes_akta","pass":"333111","counter":72605}
+Jul 24, 2019 11:49:09 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-24 11:49:09 ","resultcode":"0009"}
+Jul 24, 2019 4:50:22 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-3 {"com":"REQ_NUMB","nomor":"085241409231","counter":80285}
+Jul 24, 2019 4:50:22 PM modul.Logv run
+INFO: Thread-3 {"datetime":"2019-07-24 16:50:22 ","resultcode":"0002"}
+Jul 24, 2019 4:52:37 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"EXEC_NUMB","nomor":"085241409231","kode":"12345","counter":32214}
+Jul 24, 2019 4:52:37 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-24 16:52:37 ","resultcode":"0009"}
+Jul 24, 2019 4:54:46 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"REQ_NUMB","nomor":"085241409231","counter":91521}
+Jul 24, 2019 4:54:46 PM modul.Logv run
+INFO: Thread-7 {"datetime":"2019-07-24 16:54:46 ","resultcode":"0002"}

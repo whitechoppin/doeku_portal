@@ -1,0 +1,4 @@
+Sep 30, 2018 5:35:52 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"END_MSG","iduser":"PAB00005","idpesan":"5","counter":81128}
+Sep 30, 2018 5:35:52 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-09-30 17:35:51 ","resultcode":"0009"}

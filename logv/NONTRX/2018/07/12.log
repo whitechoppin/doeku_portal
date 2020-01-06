@@ -1,0 +1,4 @@
+Jul 12, 2018 4:02:32 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_BRW","idbrw":"PAB00007","counter":23587}
+Jul 12, 2018 4:02:32 PM modul.Logv run
+INFO: Thread-4 {"com":"CEK_BRW","provinsi":"sulteng","telp_kantor":"0411234123","tgl_masuk":"2018-05-31","telp_pribadi":"08122312123","datetime":"2018-07-12 16:02:30 ","bank":"Danamon","tempat_lahir":"maluku","pendapatan":3000000,"id_brw":"PAB00007","email":"tesja333@gmail.com","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","kota":"palu","ktp":"73932292822321772","npwp":"94812319891077","counter":23587,"kelurahan":"besusu timur","tgl_lahir":"1980-03-07","alamat":"Jl. Juanda","nama":"tester bisa","norek":"3423232342","kecamatan":"besusu","resultcode":"0000","jum_tanggung":3,"atas_nama":"cobaers"}

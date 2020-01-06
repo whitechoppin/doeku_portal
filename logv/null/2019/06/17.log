@@ -1,0 +1,4 @@
+Jun 17, 2019 11:21:04 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_MSG","id_user":"PAB00005","status":"0","counter":65129}
+Jun 17, 2019 11:21:04 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-06-17 11:21:03 ","resultcode":"0009"}

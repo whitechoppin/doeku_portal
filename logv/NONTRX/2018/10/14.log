@@ -1,0 +1,4 @@
+Oct 14, 2018 11:07:26 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"tenor":15,"counter":97530}
+Oct 14, 2018 11:07:26 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2018-10-14 23:07:26 ","bunga16":704666,"total":686000,"bunga18":705250,"biaya":14000,"jatuh_tempo":"2018-10-29","resultcode":"0000","bunga20":705833,"counter":97530}

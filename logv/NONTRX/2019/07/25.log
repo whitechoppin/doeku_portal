@@ -1,0 +1,20 @@
+Jul 25, 2019 10:55:20 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"VERIFY_NUMB","nomor":"085241409231","counter":24334}
+Jul 25, 2019 10:55:20 AM modul.Logv run
+INFO: Thread-7 {"com":"VERIFY_NUMB","datetime":"2019-07-25 ","resultcode":"0000","counter":24334}
+Jul 25, 2019 11:05:22 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"EXEC_NUMB","nomor":"085241409231","kode":"12345","counter":98805}
+Jul 25, 2019 11:05:22 AM modul.Logv run
+INFO: Thread-4 {"com":"EXEC_NUMB","datetime":"2019-07-25 ","resultcode":"0003","counter":98805}
+Jul 25, 2019 11:07:46 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"EXEC_NUMB","nomor":"085241409231","kode":"05068","counter":59125}
+Jul 25, 2019 11:07:46 AM modul.Logv run
+INFO: Thread-8 {"com":"EXEC_NUMB","datetime":"2019-07-25 ","resultcode":"0003","counter":59125}
+Jul 25, 2019 11:15:20 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","jenkel":"1","pass":"123","jumlah":1300000,"durasi":30,"counter":96371}
+Jul 25, 2019 11:15:20 AM modul.Logv run
+INFO: Thread-7 {"com":"REGIST_BRW","datetime":"2019-07-25 11:15:19 ","iduser":"PAB00001","resultcode":"0000","counter":96371,"nova":"1722208124721567"}
+Jul 25, 2019 11:16:14 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-11 {"com":"LOGIN_BRW","idbrw":"PAB00001","code":"123","pass":"cf53770043516caf584c2dfa627ad7c82c4baeabab18db29715e50d0b616eb0c0c394fe1e47d6db4de4f1e13b3ae2b11f2dd1e27234a013e63937372e705a18d","ipku":"12345","counter":37929}
+Jul 25, 2019 11:16:14 AM modul.Logv run
+INFO: Thread-11 {"com":"LOGIN_BRW","datetime":"2019-07-25 11:16:14 ","resultcode":"0003","counter":37929}

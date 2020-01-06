@@ -1,0 +1,56 @@
+Aug 21, 2018 12:03:36 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"LIST_PINJAMAN","id_idn":"PAI00005","counter":38009}
+Aug 21, 2018 12:03:36 AM modul.Logv run
+INFO: Thread-8 {"com":"LIST_PINJAMAN","datetime":"2018-08-21 00:03:36 ","data":[],"id_idn":"PAI00005","resultcode":"0000"}
+Aug 21, 2018 12:06:22 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"LIST_PINJAMAN","id_idn":"PAI00005","counter":73520}
+Aug 21, 2018 12:06:22 AM modul.Logv run
+INFO: Thread-16 {"com":"LIST_PINJAMAN","datetime":"2018-08-21 00:06:22 ","data":[],"id_idn":"PAI00005","resultcode":"0000"}
+Aug 21, 2018 12:18:29 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-20 {"com":"LIST_PINJAMAN","id_idn":"PAI00005","counter":78620}
+Aug 21, 2018 12:18:29 AM modul.Logv run
+INFO: Thread-20 {"com":"LIST_PINJAMAN","datetime":"2018-08-21 00:18:28 ","data":["{\"tenor\":\"16\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000002\",\"id_brw\":\"PAB00002\",\"urut\":1,\"alasan\":\"tes\"}","{\"tenor\":\"80\",\"jumlah\":\"1000000\",\"nama\":\"7 Tester\",\"id_trxb\":\"TRB0000000003\",\"id_brw\":\"PAB00003\",\"urut\":2,\"alasan\":\"biaya sekolah saudara\"}","{\"tenor\":\"11\",\"jumlah\":\"3000000\",\"nama\":\"ilham\",\"id_trxb\":\"TRB0000000004\",\"id_brw\":\"PAB00004\",\"urut\":3,\"alasan\":\"menikah\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000006\",\"id_brw\":\"PAB00002\",\"urut\":4,\"alasan\":\"tes\"}","{\"tenor\":\"15\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000007\",\"id_brw\":\"PAB00002\",\"urut\":5,\"alasan\":\"tes\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000008\",\"id_brw\":\"PAB00002\",\"urut\":6,\"alasan\":\"tes\"}","{\"tenor\":\"23\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000009\",\"id_brw\":\"PAB00002\",\"urut\":7,\"alasan\":\"tes\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000010\",\"id_brw\":\"PAB00002\",\"urut\":8,\"alasan\":\"tes\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"Edwin\",\"id_trxb\":\"TRB0000000011\",\"id_brw\":\"PAB00006\",\"urut\":9,\"alasan\":\"Rumah Sakit\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"tes sul\",\"id_trxb\":\"TRB0000000012\",\"id_brw\":\"PAB00007\",\"urut\":10,\"alasan\":\"Menikah\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"tes sulta\",\"id_trxb\":\"TRB0000000013\",\"id_brw\":\"PAB00008\",\"urut\":11,\"alasan\":\"Menikah\"}"],"id_idn":"PAI00005","resultcode":"0000"}
+Aug 21, 2018 12:20:49 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"LIST_PINJAMAN","id_idn":"PAI00005","counter":95904}
+Aug 21, 2018 12:20:49 AM modul.Logv run
+INFO: Thread-8 {"com":"LIST_PINJAMAN","datetime":"2018-08-21 00:20:49 ","data":["{\"tenor\":\"16\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000002\",\"id_brw\":\"PAB00002\",\"urut\":1,\"alasan\":\"tes\"}","{\"tenor\":\"80\",\"jumlah\":\"1000000\",\"nama\":\"7 Tester\",\"id_trxb\":\"TRB0000000003\",\"id_brw\":\"PAB00003\",\"urut\":2,\"alasan\":\"biaya sekolah saudara\"}","{\"tenor\":\"11\",\"jumlah\":\"3000000\",\"nama\":\"ilham\",\"id_trxb\":\"TRB0000000004\",\"id_brw\":\"PAB00004\",\"urut\":3,\"alasan\":\"menikah\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000006\",\"id_brw\":\"PAB00002\",\"urut\":4,\"alasan\":\"tes\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000008\",\"id_brw\":\"PAB00002\",\"urut\":5,\"alasan\":\"tes\"}","{\"tenor\":\"23\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000009\",\"id_brw\":\"PAB00002\",\"urut\":6,\"alasan\":\"tes\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"ilham sabar\",\"id_trxb\":\"TRB0000000010\",\"id_brw\":\"PAB00002\",\"urut\":7,\"alasan\":\"tes\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"Edwin\",\"id_trxb\":\"TRB0000000011\",\"id_brw\":\"PAB00006\",\"urut\":8,\"alasan\":\"Rumah Sakit\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"tes sul\",\"id_trxb\":\"TRB0000000012\",\"id_brw\":\"PAB00007\",\"urut\":9,\"alasan\":\"Menikah\"}","{\"tenor\":\"30\",\"jumlah\":\"3000000\",\"nama\":\"tes sulta\",\"id_trxb\":\"TRB0000000013\",\"id_brw\":\"PAB00008\",\"urut\":10,\"alasan\":\"Menikah\"}"],"id_idn":"PAI00005","resultcode":"0000"}
+Aug 21, 2018 1:13:50 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN","nama":"IDNestku","ktp":"7254534533289901","npwp":"94812319853748","email":"v1x@gmail.com","telp_pribadi":"0812323312890","sumber":"majalah","kantor":"PT PINJAM AJA 3","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","from_rr":3100000,"to_rr":10000000,"jum_dana":20000000,"foto_npwp":"foto-v","pass":"123","provinsi":"sulsel","kota":"mks","kelurahan":"maccini","kecamatan":"maccini raya","counter":19728}
+Aug 21, 2018 1:13:50 AM modul.Logv run
+INFO: Thread-4 {"result":"Data User Sudah Ada","com":"REGIST_IDN","datetime":"2018-08-21 01:13:49 ","resultcode":"0001","counter":19728}
+Aug 21, 2018 1:14:50 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_IDN","nama":"IDNestku 3","ktp":"72545345332898135","npwp":"9481231985312345","email":"v8x@gmail.com","telp_pribadi":"08123233129123","sumber":"majalah","kantor":"PT PINJAM AJA 3","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","from_rr":3100000,"to_rr":10000000,"jum_dana":20000000,"foto_npwp":"foto-v","pass":"123","provinsi":"sulsel","kota":"mks","kelurahan":"maccini","kecamatan":"maccini raya","counter":58479}
+Aug 21, 2018 1:14:50 AM modul.Logv run
+INFO: Thread-8 {"com":"REGIST_IDN","datetime":"2018-08-21 01:14:50 ","resultcode":"0000","counter":58479}
+Aug 21, 2018 1:26:30 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_BRW","nama":"7 Tester","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"739322123456789","npwp":"94812319891031","email":"lox777@gmail.com","jum_tanggung":3,"norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"041155512343","telp_pribadi":"081221335577","jum_pinjam":1000000,"pendapatan":3000000,"durasi":80,"tipe":1,"alasan":"biaya sekolah saudara","foto_diri":"tes-diri","foto_ktp":"tes-ktp","foto_slip":"tes-slip","foto_npwp":"tes-npwp","telp_fam":"08123445190","id_pln":"98723423982929","nama_fam":"budi","nikah":"Sudah","agama":"islam","jenis_kelamin":"Pria","pendidikan":"Sarjana","pekerjaan":"Tukang Kayu","passv":"333111","counter":25249}
+Aug 21, 2018 1:26:30 AM modul.Logv run
+INFO: Thread-8 {"result":"Data User Sudah Ada","com":"REGIST_BRW","datetime":"2018-08-21 01:26:30 ","resultcode":"0001","counter":25249}
+Aug 21, 2018 1:30:33 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_BRW","nama":"3 Tester","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"7393221234562313","npwp":"948123198910355","email":"lox111@gmail.com","jum_tanggung":3,"norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"041155512343","telp_pribadi":"081221335577","jum_pinjam":1000000,"pendapatan":3000000,"durasi":30,"tipe":1,"alasan":"biaya sekolah saudara","foto_diri":"tes-diri","foto_ktp":"tes-ktp","foto_slip":"tes-slip","foto_npwp":"tes-npwp","telp_fam":"08123445190","id_pln":"98723423982929","nama_fam":"budi","nikah":"Sudah","agama":"islam","jenis_kelamin":"Pria","pendidikan":"Sarjana","pekerjaan":"Tukang Kayu","passv":"333111","counter":26998}
+Aug 21, 2018 1:30:33 AM modul.Logv run
+INFO: Thread-8 {"result":"Data User Sudah Ada","com":"REGIST_BRW","datetime":"2018-08-21 01:30:33 ","resultcode":"0001","counter":26998}
+Aug 21, 2018 1:32:01 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"REGIST_BRW","nama":"Tester 77","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"739322123456231331","npwp":"94812319891033313","email":"lox31313@gmail.com","jum_tanggung":3,"norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411555123333","telp_pribadi":"08122133555123","jum_pinjam":1000000,"pendapatan":3000000,"durasi":30,"tipe":1,"alasan":"biaya sekolah saudara","foto_diri":"tes-diri","foto_ktp":"tes-ktp","foto_slip":"tes-slip","foto_npwp":"tes-npwp","telp_fam":"08123445190","id_pln":"987234239825551","nama_fam":"budi","nikah":"Sudah","agama":"islam","jenis_kelamin":"Pria","pendidikan":"Sarjana","pekerjaan":"Tukang Kayu","passv":"333111","counter":74462}
+Aug 21, 2018 1:32:01 AM modul.Logv run
+INFO: Thread-12 {"com":"REGIST_BRW","datetime":"2018-08-21 01:32:01 ","iduser":"PAB00009","resultcode":"0000","counter":74462,"nova":"172228122133555123"}
+Aug 21, 2018 10:44:24 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAI00004","counter":99659}
+Aug 21, 2018 10:44:24 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-08-21 10:44:20 ","resultcode":"0000","counter":99659}
+Aug 21, 2018 10:49:06 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAI00004","counter":46158}
+Aug 21, 2018 10:49:06 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-08-21 10:49:04 ","resultcode":"0000","counter":46158}
+Aug 21, 2018 10:50:01 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"RESET_PASS","id_user":"PAI00004","counter":64341}
+Aug 21, 2018 10:50:01 AM modul.Logv run
+INFO: Thread-8 {"com":"RESET_PASS","datetime":"2018-08-21 10:50:00 ","resultcode":"0000","counter":64341}
+Aug 21, 2018 10:50:49 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAI00004","counter":63179}
+Aug 21, 2018 10:50:49 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-08-21 10:50:47 ","resultcode":"0000","counter":63179}
+Aug 21, 2018 11:43:20 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REQ_V","nomor":"082196552299","counter":16575}
+Aug 21, 2018 11:43:20 AM modul.Logv run
+INFO: Thread-8 {"com":"REQ_V","datetime":"2018-08-21 11:43:20 ","resultcode":"0000","no_telp":"+6282196552299","counter":16575}

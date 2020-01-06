@@ -1,0 +1,16 @@
+Aug 30, 2018 3:10:11 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"tenor":15,"counter":87610}
+Aug 30, 2018 3:10:11 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2018-08-30 15:10:10 ","bunga16":707000,"total":686000,"bunga18":707000,"biaya":14000,"jatuh_tempo":"2018-09-14","resultcode":"0000","bunga20":707000,"counter":87610}
+Aug 30, 2018 3:11:19 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"tenor":15,"counter":24257}
+Aug 30, 2018 3:11:19 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2018-08-30 15:11:19 ","bunga16":812000,"total":686000,"bunga18":826000,"biaya":14000,"jatuh_tempo":"2018-09-14","resultcode":"0000","bunga20":840000,"counter":24257}
+Aug 30, 2018 3:12:37 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"tenor":15,"counter":53258}
+Aug 30, 2018 3:12:37 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2018-08-30 15:12:37 ","bunga16":67666,"total":686000,"bunga18":68833,"biaya":14000,"jatuh_tempo":"2018-09-14","resultcode":"0000","bunga20":70000,"counter":53258}
+Aug 30, 2018 4:12:31 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"tenor":15,"counter":34032}
+Aug 30, 2018 4:12:31 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2018-08-30 16:12:31 ","bunga16":709333,"total":686000,"bunga18":710500,"biaya":14000,"jatuh_tempo":"2018-09-14","resultcode":"0000","bunga20":711666,"counter":34032}

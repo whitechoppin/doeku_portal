@@ -1,0 +1,84 @@
+Sep 02, 2018 9:09:23 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_MSG","id_user":"PAB00003","judul":"Cuma Tesji","pesan":"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.","counter":16190}
+Sep 02, 2018 9:09:23 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_MSG","datetime":"2018-09-02 21:09:23 ","resultcode":"0000","counter":16190}
+Sep 02, 2018 9:12:33 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"ACC_MSG","id_user":"PAB00003","judul":"Cuma Tesji","pesan":"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.","counter":21197}
+Sep 02, 2018 9:12:33 PM modul.Logv run
+INFO: Thread-4 {"com":"ACC_MSG","datetime":"2018-09-02 21:12:33 ","resultcode":"0000","counter":21197}
+Sep 02, 2018 9:13:59 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_MSG","id_user":"PAI00001","judul":"Bisa mi","pesan":"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.","counter":46515}
+Sep 02, 2018 9:13:59 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_MSG","datetime":"2018-09-02 21:13:59 ","resultcode":"0000","counter":46515}
+Sep 02, 2018 9:14:28 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"ACC_MSG","id_user":"PAI00001","judul":"Bisa mi","pesan":"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.","counter":42437}
+Sep 02, 2018 9:14:28 PM modul.Logv run
+INFO: Thread-12 {"com":"ACC_MSG","datetime":"2018-09-02 21:14:28 ","resultcode":"0000","counter":42437}
+Sep 02, 2018 9:15:50 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"ACC_MSG","id_user":"PAI00002","judul":"Online bisa lah","pesan":"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.","counter":31785}
+Sep 02, 2018 9:15:50 PM modul.Logv run
+INFO: Thread-16 {"com":"ACC_MSG","datetime":"2018-09-02 21:15:50 ","resultcode":"0000","counter":31785}
+Sep 02, 2018 9:17:41 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-20 {"com":"ACC_MSG","id_user":"PAB00005","judul":"Jalan Ji Ini","pesan":"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.","counter":44241}
+Sep 02, 2018 9:17:41 PM modul.Logv run
+INFO: Thread-20 {"com":"ACC_MSG","datetime":"2018-09-02 21:17:41 ","resultcode":"0000","counter":44241}
+Sep 02, 2018 9:21:54 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-24 {"com":"RESP_MSG","id_pesan":"2","pengirim":"Jojo","pesan":"kubalas mi, bisa lagi.","counter":39193}
+Sep 02, 2018 9:21:54 PM modul.Logv run
+INFO: Thread-24 {"com":"RESP_MSG","datetime":"2018-09-02 21:21:54 ","resultcode":"0000","counter":39193}
+Sep 02, 2018 9:23:01 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-28 {"com":"RESP_MSG","id_pesan":"1","pengirim":"Jaka","pesan":"kubalas mi, bisa lagi.","counter":93276}
+Sep 02, 2018 9:23:01 PM modul.Logv run
+INFO: Thread-28 {"com":"RESP_MSG","datetime":"2018-09-02 21:23:01 ","resultcode":"0000","counter":93276}
+Sep 02, 2018 9:23:41 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-32 {"com":"RESP_MSG","id_pesan":"1","pengirim":"Jojo","pesan":"kubalas mi, bisa lagi.","counter":80208}
+Sep 02, 2018 9:23:41 PM modul.Logv run
+INFO: Thread-32 {"com":"RESP_MSG","datetime":"2018-09-02 21:23:41 ","resultcode":"0000","counter":80208}
+Sep 02, 2018 9:24:05 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-36 {"com":"RESP_MSG","id_pesan":"3","pengirim":"Mantap","pesan":"kubalas mi, bisa lagi.","counter":53530}
+Sep 02, 2018 9:24:05 PM modul.Logv run
+INFO: Thread-36 {"com":"RESP_MSG","datetime":"2018-09-02 21:24:05 ","resultcode":"0000","counter":53530}
+Sep 02, 2018 9:24:57 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-40 {"com":"RESP_MSG","id_pesan":"3","pengirim":"Admin","pesan":"bisa mi","counter":32530}
+Sep 02, 2018 9:24:57 PM modul.Logv run
+INFO: Thread-40 {"com":"RESP_MSG","datetime":"2018-09-02 21:24:57 ","resultcode":"0000","counter":32530}
+Sep 02, 2018 9:25:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-44 {"com":"RESP_MSG","id_pesan":"3","pengirim":"Mantap","pesan":"beres mi","counter":42980}
+Sep 02, 2018 9:25:51 PM modul.Logv run
+INFO: Thread-44 {"com":"RESP_MSG","datetime":"2018-09-02 21:25:51 ","resultcode":"0000","counter":42980}
+Sep 02, 2018 9:28:34 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-48 {"com":"CEK_MSG","id_user":"PAI00001","status":"0","counter":17333}
+Sep 02, 2018 9:28:34 PM modul.Logv run
+INFO: Thread-48 {"com":"CEK_MSG","datetime":"2018-09-02 21:28:34 ","data":["{\"pesan\":\"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.\",\"id_pesan\":\"2\",\"waktu\":\"2018-09-02 21:13:59\",\"urut\":1,\"judul\":\"Bisa mi\"}","{\"pesan\":\"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.\",\"id_pesan\":\"3\",\"waktu\":\"2018-09-02 21:14:28\",\"urut\":2,\"judul\":\"Bisa mi Lagi\"}"],"resultcode":"0000","id_user":"PAI00001","status":"0"}
+Sep 02, 2018 9:29:45 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-52 {"com":"CEK_MSG","id_user":"PAI00001","status":"1","counter":72580}
+Sep 02, 2018 9:29:45 PM modul.Logv run
+INFO: Thread-52 {"com":"CEK_MSG","datetime":"2018-09-02 21:29:45 ","data":[],"resultcode":"0000","id_user":"PAI00001","status":"1"}
+Sep 02, 2018 9:30:24 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-56 {"com":"CEK_MSG","id_user":"PAB00005","status":"0","counter":36056}
+Sep 02, 2018 9:30:24 PM modul.Logv run
+INFO: Thread-56 {"com":"CEK_MSG","datetime":"2018-09-02 21:30:24 ","data":["{\"pesan\":\"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.\",\"id_pesan\":\"5\",\"waktu\":\"2018-09-02 21:17:41\",\"urut\":1,\"judul\":\"Jalan Ji Ini\"}"],"resultcode":"0000","id_user":"PAB00005","status":"0"}
+Sep 02, 2018 9:36:57 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-60 {"com":"DETAIL_MSG","id_pesan":"3","counter":80065}
+Sep 02, 2018 9:36:57 PM modul.Logv run
+INFO: Thread-60 {"com":"DETAIL_MSG","datetime":"2018-09-02 21:36:57 ","data":[],"id_pesan":"3","resultcode":"0000"}
+Sep 02, 2018 9:41:28 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"DETAIL_MSG","id_pesan":"3","counter":16756}
+Sep 02, 2018 9:41:28 PM modul.Logv run
+INFO: Thread-4 {"com":"DETAIL_MSG","datetime":"2018-09-02 21:41:27 ","data":["{\"pesan\":\"kubalas mi, bisa lagi.\",\"id_pesan\":\"3\",\"waktu\":\"2018-09-02 21:24:05\",\"urut\":1,\"id_user\":\"Mantap\"}","{\"pesan\":\"bisa mi\",\"id_pesan\":\"3\",\"waktu\":\"2018-09-02 21:24:57\",\"urut\":2,\"id_user\":\"Admin\"}","{\"pesan\":\"beres mi\",\"id_pesan\":\"3\",\"waktu\":\"2018-09-02 21:25:51\",\"urut\":3,\"id_user\":\"Mantap\"}"],"id_pesan":"3","resultcode":"0000"}
+Sep 02, 2018 9:42:17 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"DETAIL_MSG","id_pesan":"3","counter":45087}
+Sep 02, 2018 9:42:17 PM modul.Logv run
+INFO: Thread-4 {"com":"DETAIL_MSG","datetime":"2018-09-02 21:42:17 ","data":["{\"pesan\":\"kubalas mi, bisa lagi.\",\"sender\":\"Mantap\",\"id_pesan\":\"3\",\"waktu\":\"2018-09-02 21:24:05\",\"urut\":1}","{\"pesan\":\"bisa mi\",\"sender\":\"Admin\",\"id_pesan\":\"3\",\"waktu\":\"2018-09-02 21:24:57\",\"urut\":2}","{\"pesan\":\"beres mi\",\"sender\":\"Mantap\",\"id_pesan\":\"3\",\"waktu\":\"2018-09-02 21:25:51\",\"urut\":3}"],"id_pesan":"3","resultcode":"0000"}
+Sep 02, 2018 9:42:58 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_MSG","id_user":"PAB00005","judul":"Jalan Ji Ini","pesan":"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.","counter":66000}
+Sep 02, 2018 9:42:58 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_MSG","datetime":"2018-09-02 21:42:58 ","resultcode":"0000","counter":66000}
+Sep 02, 2018 9:45:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"RESP_MSG","id_pesan":"3","pengirim":"Mantap","pesan":"beres mi","counter":67359}
+Sep 02, 2018 9:45:51 PM modul.Logv run
+INFO: Thread-12 {"com":"RESP_MSG","datetime":"2018-09-02 21:45:51 ","resultcode":"0000","counter":67359}
+Sep 02, 2018 9:46:29 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"CEK_MSG","id_user":"PAB00005","status":"0","counter":77131}
+Sep 02, 2018 9:46:29 PM modul.Logv run
+INFO: Thread-16 {"com":"CEK_MSG","datetime":"2018-09-02 21:46:29 ","data":["{\"pesan\":\"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.\",\"id_pesan\":\"5\",\"waktu\":\"2018-09-02 21:17:41\",\"urut\":1,\"judul\":\"Jalan Ji Ini\"}","{\"pesan\":\"Yth.Mitra Total Yang Harus Anda Lunasi Hari Ini Segera Top Up Saldo Anda Di Davestpay.Hindari Denda dan Penagihan Langsung.\",\"id_pesan\":\"6\",\"waktu\":\"2018-09-02 21:42:58\",\"urut\":2,\"judul\":\"Jalan Ji Ini\"}"],"resultcode":"0000","id_user":"PAB00005","status":"0"}

@@ -1,0 +1,16 @@
+May 30, 2018 3:14:46 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"ACC_IDN","no_idn":"","pass":"c53429ad94db68803399602d4bc1a3da","counter":43818}
+May 30, 2018 3:14:46 PM modul.Logv run
+INFO: Thread-4 {"com":"ACC_PENDANA","datetime":"2018-05-30 15:14:45 ","id_idn":"PAI00004","resultcode":"0000","counter":43818}
+May 30, 2018 3:16:32 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN","no_idn":"6","pass":"5d727186ad30b3fd5257e63d8f6fd7af","counter":80919}
+May 30, 2018 3:16:32 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_PENDANA","datetime":"2018-05-30 15:16:32 ","id_idn":"PAI00004","resultcode":"0000","counter":80919}
+May 30, 2018 3:51:07 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"ACC_IDN","no_idn":"6","pass":"aa5a36b10a684650a994f4e10eb8200a","counter":82518}
+May 30, 2018 3:51:07 PM modul.Logv run
+INFO: Thread-12 {"com":"ACC_PENDANA","datetime":"2018-05-30 15:51:06 ","id_idn":"PAI00004","resultcode":"0000","counter":82518}
+May 30, 2018 3:51:34 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"ACC_IDN","no_idn":"4","pass":"10610991d1a32d630d120f0179d32bfa","counter":57900}
+May 30, 2018 3:51:34 PM modul.Logv run
+INFO: Thread-16 {"com":"ACC_PENDANA","datetime":"2018-05-30 15:51:34 ","id_idn":"PAI00005","resultcode":"0000","counter":57900}

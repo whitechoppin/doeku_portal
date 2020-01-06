@@ -1,0 +1,36 @@
+May 31, 2018 1:06:03 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"tester bisa","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"73932292822321557","npwp":"94812319891077","email":"bisami123@gmail.com","jum_tanggung":"3","norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411234123","telp_pribadi":"08122312341","jum_pinjam":1500000,"pendapatan":5000000,"durasi":100,"tipe":1,"alasan":"biaya sekolah saudara","foto_diri":"tes-diri","foto_ktp":"tes-ktp","foto_slip":"tes-slip","passv":"333111","counter":34878}
+May 31, 2018 1:06:03 AM modul.Logv run
+INFO: Thread-4 {"result":"Data User Sudah Ada","com":"REGIST_BRW","datetime":"2018-05-31 01:06:03 ","resultcode":"0001","counter":34878}
+May 31, 2018 1:06:55 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_BRW","nama":"tester bisa","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"73932292822321521","npwp":"94812319891077","email":"tesja@gmail.com","jum_tanggung":"3","norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411234123","telp_pribadi":"08122312512","jum_pinjam":1500000,"pendapatan":5000000,"durasi":100,"tipe":1,"alasan":"biaya sekolah saudara","foto_diri":"tes-diri","foto_ktp":"tes-ktp","foto_slip":"tes-slip","passv":"333111","counter":42928}
+May 31, 2018 1:06:55 AM modul.Logv run
+INFO: Thread-8 {"com":"REGIST_BRW","datetime":"2018-05-31 01:06:55 ","iduser":"PAB00005","resultcode":"0000","counter":42928}
+May 31, 2018 1:08:42 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"REGIST_BRW","nama":"tester bisa","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"73932292822321888","npwp":"94812319891077","email":"tesja123@gmail.com","jum_tanggung":"3","norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411234123","telp_pribadi":"08122312888","jum_pinjam":8000000,"pendapatan":5000000,"durasi":80,"tipe":1,"alasan":"biaya sekolah saudara","foto_diri":"tes-diri","foto_ktp":"tes-ktp","foto_slip":"tes-slip","passv":"333111","counter":32266}
+May 31, 2018 1:08:42 AM modul.Logv run
+INFO: Thread-12 {"com":"REGIST_BRW","datetime":"2018-05-31 01:08:42 ","resultcode":"0002","counter":32266}
+May 31, 2018 1:12:05 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"tester bisa","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"73932292822321772","npwp":"94812319891077","email":"tesja333@gmail.com","jum_tanggung":"3","norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411234123","telp_pribadi":"08122312123","jum_pinjam":8000000,"pendapatan":3000000,"durasi":80,"tipe":1,"alasan":"biaya sekolah saudara","foto_diri":"tes-diri","foto_ktp":"tes-ktp","foto_slip":"tes-slip","passv":"333111","counter":48671}
+May 31, 2018 1:12:05 AM modul.Logv run
+INFO: Thread-4 {"result":"Registrasi Berhasil,Jumlah Pinjaman Melebihi Batas","com":"REGIST_BRW","datetime":"2018-05-31 01:12:04 ","resultcode":"0001","counter":48671}
+May 31, 2018 1:31:24 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"CEK_IDN","ididn":"PAB00008","counter":48226}
+May 31, 2018 1:31:24 AM modul.Logv run
+INFO: Thread-16 {"result":"Data Tidak Ada","com":"CEK_IDN","datetime":"2018-05-31 01:31:24 ","resultcode":"0001","counter":48226}
+May 31, 2018 1:32:07 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-20 {"com":"CEK_IDN","ididn":"PAI00003","counter":88079}
+May 31, 2018 1:32:07 AM modul.Logv run
+INFO: Thread-20 {"com":"CEK_IDN","ktp":"72545345332333","telp_kantor":"0411234322","npwp":"948123198555","tgl_masuk":"2018-05-24","saldo":0,"counter":88079,"telp_pribadi":"0451324111","datetime":"2018-05-31 01:32:07 ","bank":"Mandiri","nama":"IDNestku","id_idn":"PAI00003","norek":"248758398","resultcode":"0000","email":"koko@gmail.com","kantor":"PT PINJAM AJA 3","atas_nama":"john","alamat_kantor":"jl. tes ji"}
+May 31, 2018 9:22:24 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_BRW","idbrw":"PAB00008","counter":17330}
+May 31, 2018 9:22:24 AM modul.Logv run
+INFO: Thread-4 {"result":"Data Tidak Ada","com":"CEK_BRW","datetime":"2018-05-31 09:22:23 ","resultcode":"0001","counter":17330}
+May 31, 2018 9:22:45 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"CEK_BRW","idbrw":"PAB00007","counter":70913}
+May 31, 2018 9:22:45 AM modul.Logv run
+INFO: Thread-8 {"com":"CEK_BRW","provinsi":"sulteng","telp_kantor":"0411234123","tgl_masuk":"2018-05-31","telp_pribadi":"08122312123","datetime":"2018-05-31 09:22:45 ","bank":"Danamon","tempat_lahir":"maluku","pendapatan":3000000,"id_brw":"PAB00007","email":"tesja333@gmail.com","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","kota":"palu","ktp":"73932292822321772","npwp":"94812319891077","counter":70913,"kelurahan":"besusu timur","tgl_lahir":"1980-03-07","alamat":"Jl. Juanda","nama":"tester bisa","norek":"3423232342","kecamatan":"besusu","resultcode":"0000","jum_tanggung":3,"atas_nama":"cobaers"}
+May 31, 2018 9:53:12 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"CEK_IDN","ididn":"PAI00003","counter":39745}
+May 31, 2018 9:53:12 AM modul.Logv run
+INFO: Thread-12 {"com":"CEK_IDN","ktp":"72545345332333","telp_kantor":"0411234322","npwp":"948123198555","tgl_masuk":"2018-05-24","saldo":0,"counter":39745,"telp_pribadi":"0451324111","datetime":"2018-05-31 09:53:12 ","bank":"Mandiri","nama":"IDNestku","id_idn":"PAI00003","norek":"248758398","resultcode":"0000","email":"koko@gmail.com","kantor":"PT PINJAM AJA 3","atas_nama":"john","alamat_kantor":"jl. tes ji"}

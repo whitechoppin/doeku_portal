@@ -1,0 +1,20 @@
+Sep 29, 2017 10:47:00 AM modul.Logv run
+SEVERE: Thread-5 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Sep 29, 2017 10:47:00 AM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>29-09-2017 10:46:59 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Sep 29, 2017 10:47:20 AM modul.Logv run
+SEVERE: Thread-10 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>93882039802</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>94111</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Sep 29, 2017 10:47:20 AM modul.Logv run
+INFO: Thread-10 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>29-09-2017 10:47:20 </datetime><com>REGISTRASI</com></dpay>
+Sep 29, 2017 10:48:08 AM modul.Logv run
+SEVERE: Thread-15 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>938820398021234</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>94111</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Sep 29, 2017 10:48:08 AM modul.Logv run
+INFO: Thread-15 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>29-09-2017 10:48:07 </datetime><com>REGISTRASI</com></dpay>
+Sep 29, 2017 10:48:56 AM modul.Logv run
+SEVERE: Thread-20 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester78@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>93882039802</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>94111</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Sep 29, 2017 10:48:56 AM modul.Logv run
+INFO: Thread-20 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>29-09-2017 10:48:56 </datetime><com>REGISTRASI</com></dpay>
+Sep 29, 2017 10:49:19 AM modul.Logv run
+SEVERE: Thread-25 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester78@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>9388203980244</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>94111</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Sep 29, 2017 10:49:19 AM modul.Logv run
+INFO: Thread-25 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>29-09-2017 10:49:19 </datetime><com>REGISTRASI</com><iduser>DPAY00006</iduser><counter>12513</counter></dpay>

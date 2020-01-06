@@ -1,0 +1,20 @@
+May 31, 2018 1:22:50 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"PINJAM_BRW","id_brw":"DP00001","jumlah":2000000,"tenor":30,"tipe":2,"alasan":"biaya liburan","counter":35293}
+May 31, 2018 1:22:50 AM modul.Logv run
+INFO: Thread-8 {"result":"ID Tidak Dikenali","com":"PINJAM_BRW","datetime":"2018-05-31 01:22:50 ","resultcode":"0001","counter":35293}
+May 31, 2018 1:23:35 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"PINJAM_BRW","id_brw":"PAB00007","jumlah":2000000,"tenor":30,"tipe":2,"alasan":"biaya liburan","counter":96533}
+May 31, 2018 1:23:35 AM modul.Logv run
+INFO: Thread-12 {"com":"PINJAM_BRW","datetime":"2018-05-31 01:23:35 ","resultcode":"0000","counter":96533}
+May 31, 2018 10:22:02 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"PINJAM_BRW","id_brw":"PAB00007","jumlah":5000000,"tenor":30,"tipe":2,"alasan":"biaya liburan","counter":88186}
+May 31, 2018 10:22:02 AM modul.Logv run
+INFO: Thread-16 {"com":"PINJAM_BRW","datetime":"2018-05-31 10:22:01 ","resultcode":"0000","counter":88186}
+May 31, 2018 10:42:30 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-20 {"com":"PINJAM_BRW","id_brw":"PAB00005","jumlah":500000,"tenor":30,"tipe":1,"alasan":"uang sekolah","counter":93976}
+May 31, 2018 10:42:30 AM modul.Logv run
+INFO: Thread-20 {"com":"PINJAM_BRW","datetime":"2018-05-31 10:42:30 ","resultcode":"0000","counter":93976}
+May 31, 2018 10:48:22 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"PINJAM_BRW","id_brw":"PAB00005","jumlah":500000,"tenor":30,"tipe":1,"alasan":"uang sekolah","counter":23315}
+May 31, 2018 10:48:22 AM modul.Logv run
+INFO: Thread-4 {"com":"PINJAM_BRW","datetime":"2018-05-31 10:48:22 ","jumlah":"500000","id_brw":"PAB00005","resultcode":"0000","counter":23315}

@@ -1,0 +1,24 @@
+Oct 14, 2019 9:27:20 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"DAYS_LEFT","id_brw":"276384728","counter":63432}
+Oct 14, 2019 9:27:20 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-10-14 09:27:15 ","resultcode":"0009"}
+Oct 14, 2019 1:05:14 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN_I","nama":"IDNestku","alamat":"jl. tes","ktp":"725453453328917","email":"rotz@gmail.com","telp_pribadi":"0811345793","sumber":"majalah","norek":"248758398","nama_rek":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","kode_pos":"97531","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","pass":"A1234567b","negara":"Inggris","sumber_dana":"orang tua","counter":77788}
+Oct 14, 2019 1:05:14 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-10-14 13:05:09 ","resultcode":"0009"}
+Oct 14, 2019 2:06:24 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"CEK_IDN_P","ididn":"PAI00002","counter":59768}
+Oct 14, 2019 2:06:24 PM modul.Logv run
+INFO: Thread-8 {"datetime":"2019-10-14 14:06:19 ","resultcode":"0009"}
+Oct 14, 2019 2:11:18 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_P","ididn":"PAI00002","counter":59768}
+Oct 14, 2019 2:11:18 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-10-14 14:11:13 ","resultcode":"0009"}
+Oct 14, 2019 2:15:23 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_P","ididn":"PAI00002","counter":59768}
+Oct 14, 2019 2:15:23 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-10-14 14:15:19 ","resultcode":"0009"}
+Oct 14, 2019 2:16:10 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_P","ididn":"PAI00002","counter":59768}
+Oct 14, 2019 2:16:10 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-10-14 14:16:06 ","resultcode":"0009"}

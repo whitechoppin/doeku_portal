@@ -1,0 +1,80 @@
+Sep 23, 2018 9:28:40 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":77642}
+Sep 23, 2018 9:28:40 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 09:28:38 ","resultcode":"0000","counter":77642}
+Sep 23, 2018 9:32:09 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":25666}
+Sep 23, 2018 9:32:09 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 09:32:05 ","resultcode":"0000","counter":25666}
+Sep 23, 2018 10:00:17 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":98849}
+Sep 23, 2018 10:00:17 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 10:00:05 ","resultcode":"0000","counter":98849}
+Sep 23, 2018 10:04:12 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":47142}
+Sep 23, 2018 10:04:12 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 10:04:10 ","resultcode":"0000","counter":47142}
+Sep 23, 2018 10:26:44 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":94418}
+Sep 23, 2018 10:26:44 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 10:26:43 ","resultcode":"0000","counter":94418}
+Sep 23, 2018 10:36:28 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":17849}
+Sep 23, 2018 10:36:28 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 10:36:27 ","resultcode":"0000","counter":17849}
+Sep 23, 2018 10:39:05 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"RESET_PASS","id_user":"PAB00003","counter":50187}
+Sep 23, 2018 10:39:05 AM modul.Logv run
+INFO: Thread-8 {"com":"RESET_PASS","datetime":"2018-09-23 10:39:05 ","resultcode":"0000","counter":50187}
+Sep 23, 2018 10:41:11 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"RESET_PASS","id_user":"PAB00003","counter":70122}
+Sep 23, 2018 10:41:11 AM modul.Logv run
+INFO: Thread-12 {"com":"RESET_PASS","datetime":"2018-09-23 10:41:11 ","resultcode":"0000","counter":70122}
+Sep 23, 2018 10:48:18 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"RESET_PASS","id_user":"PAB00003","counter":13691}
+Sep 23, 2018 10:48:18 AM modul.Logv run
+INFO: Thread-16 {"com":"RESET_PASS","datetime":"2018-09-23 10:48:18 ","resultcode":"0000","counter":13691}
+Sep 23, 2018 11:30:28 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-20 {"com":"RESET_PASS","id_user":"PAB00003","counter":86269}
+Sep 23, 2018 11:30:28 AM modul.Logv run
+INFO: Thread-20 {"com":"RESET_PASS","datetime":"2018-09-23 11:30:27 ","resultcode":"0000","counter":86269}
+Sep 23, 2018 11:32:17 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":53412}
+Sep 23, 2018 11:32:17 AM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 11:32:16 ","resultcode":"0000","counter":53412}
+Sep 23, 2018 11:33:43 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"RESET_PASS","id_user":"PAB00003","counter":72855}
+Sep 23, 2018 11:33:43 AM modul.Logv run
+INFO: Thread-8 {"com":"RESET_PASS","datetime":"2018-09-23 11:33:42 ","resultcode":"0000","counter":72855}
+Sep 23, 2018 6:23:17 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"PAB00003","counter":45345}
+Sep 23, 2018 6:23:17 PM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 18:23:15 ","resultcode":"0000","counter":45345}
+Sep 23, 2018 6:40:24 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"RESET_PASS","id_user":"PAB00003","counter":76069}
+Sep 23, 2018 6:40:24 PM modul.Logv run
+INFO: Thread-16 {"com":"RESET_PASS","datetime":"2018-09-23 18:40:22 ","resultcode":"0000","counter":76069}
+Sep 23, 2018 7:55:20 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"RESET_PASS","id_user":"vt3st3r@gmail.com","counter":73808}
+Sep 23, 2018 7:55:20 PM modul.Logv run
+INFO: Thread-8 {"com":"RESET_PASS","datetime":"2018-09-23 19:55:17 ","resultcode":"0000","counter":73808}
+Sep 23, 2018 7:57:04 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"RESET_PASS","id_user":"vt3st3r@gmail.com","counter":77920}
+Sep 23, 2018 7:57:04 PM modul.Logv run
+INFO: Thread-12 {"com":"RESET_PASS","datetime":"2018-09-23 19:56:59 ","resultcode":"0000","counter":77920}
+Sep 23, 2018 8:48:54 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"RESET_PASS","id_user":"vt3st3r@gmail.com","pos":"PAB","counter":88305}
+Sep 23, 2018 8:48:54 PM modul.Logv run
+INFO: Thread-4 {"com":"RESET_PASS","datetime":"2018-09-23 20:48:53 ","resultcode":"0000","counter":88305}
+Sep 23, 2018 8:57:53 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"RESET_PASS","id_user":"vt3st3r@gmail.com","pos":"PAB","counter":36622}
+Sep 23, 2018 8:57:53 PM modul.Logv run
+INFO: Thread-8 {"com":"RESET_PASS","datetime":"2018-09-23 20:57:52 ","resultcode":"0000","counter":36622}
+Sep 23, 2018 9:02:58 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"RESET_PASS","id_user":"vt3st3r@gmail.com","pos":"PAB","counter":18585}
+Sep 23, 2018 9:02:58 PM modul.Logv run
+INFO: Thread-12 {"com":"RESET_PASS","datetime":"2018-09-23 21:02:58 ","resultcode":"0000","counter":18585}
+Sep 23, 2018 9:04:27 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"RESET_PASS","id_user":"vt3st3r@gmail.com","pos":"PAB","counter":46268}
+Sep 23, 2018 9:04:27 PM modul.Logv run
+INFO: Thread-16 {"com":"RESET_PASS","datetime":"2018-09-23 21:04:26 ","resultcode":"0000","counter":46268}

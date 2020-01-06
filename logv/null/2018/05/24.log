@@ -1,0 +1,24 @@
+May 24, 2018 5:00:45 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN","nama":"IDNestku","ktp":"72545345332333","npwp":"948123198555","email":"koko@gmail.com","telp_pribadi":"0451324111","sumber":"majalah","kantor":"PT PINJAM AJA 3","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","from_rr":3100000,"to_rr":10000000,"jum_dana":20000000,"durasi":360,"pass":"123","counter":23098}
+May 24, 2018 5:00:45 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-05-24 17:00:44 ","resultcode":"0009"}
+May 24, 2018 5:02:17 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN","nama":"IDNestku","ktp":"72545345332333","npwp":"948123198555","email":"koko@gmail.com","telp_pribadi":"0451324111","sumber":"majalah","kantor":"PT PINJAM AJA 3","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","from_rr":3100000,"to_rr":10000000,"jum_dana":20000000,"durasi":360,"pass":"123","counter":77373}
+May 24, 2018 5:02:17 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-05-24 17:02:17 ","resultcode":"0009"}
+May 24, 2018 5:04:50 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_IDN","nama":"IDNestku","ktp":"72545345332333","npwp":"948123198555","email":"koko@gmail.com","telp_pribadi":"0451324111","sumber":"majalah","kantor":"PT PINJAM AJA 3","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto_diri":"tes_diri","foto_ktp":"tes_ktp","from_rr":3100000,"to_rr":10000000,"jum_dana":20000000,"durasi":360,"pass":"123","counter":41481}
+May 24, 2018 5:04:50 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-05-24 17:04:50 ","resultcode":"0009"}
+May 24, 2018 6:17:15 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-24 {"com":"ACC_IDN","id_idn":"5","pass":"12bd8186b84f26cf133c5f07438bde18","counter":71237}
+May 24, 2018 6:17:15 PM modul.Logv run
+INFO: Thread-24 {"datetime":"2018-05-24 18:17:15 ","resultcode":"0009"}
+May 24, 2018 6:19:53 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"ACC_IDN","id_idn":"5","pass":"eef1edc3a985f3c00da6e241b22ed45f","counter":25075}
+May 24, 2018 6:19:53 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-05-24 18:19:52 ","resultcode":"0009"}
+May 24, 2018 6:20:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_IDN","id_idn":"5","pass":"20d27893af0fc4b0027edcc7cdafadda","counter":54533}
+May 24, 2018 6:20:51 PM modul.Logv run
+INFO: Thread-8 {"datetime":"2018-05-24 18:20:51 ","resultcode":"0009"}

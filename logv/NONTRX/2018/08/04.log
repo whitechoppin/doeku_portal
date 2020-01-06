@@ -1,0 +1,52 @@
+Aug 04, 2018 11:03:16 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAB00012","tgl_dari":"2018-05-19","tgl_akhir":"2018-06-19","counter":96877}
+Aug 04, 2018 11:03:16 PM modul.Logv run
+INFO: Thread-4 {"result":"Data Tidak Ada","com":"HIST_TOUP","datetime":"2018-08-04 23:03:16 ","resultcode":"0001","counter":96877}
+Aug 04, 2018 11:04:19 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"HIST_TOPUP","id_idn":"PAB00002","tgl_dari":"2018-05-19","tgl_akhir":"2018-06-19","counter":94300}
+Aug 04, 2018 11:04:19 PM modul.Logv run
+INFO: Thread-8 {"result":"Data Tidak Ada","com":"HIST_TOUP","datetime":"2018-08-04 23:04:19 ","resultcode":"0001","counter":94300}
+Aug 04, 2018 11:05:28 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"HIST_TOPUP","id_idn":"PAB00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-06-19","counter":62132}
+Aug 04, 2018 11:05:28 PM modul.Logv run
+INFO: Thread-12 {"result":"Data Tidak Ada","com":"HIST_TOUP","datetime":"2018-08-04 23:05:28 ","resultcode":"0001","counter":62132}
+Aug 04, 2018 11:06:09 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"HIST_TOPUP","id_idn":"PAB00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":11917}
+Aug 04, 2018 11:06:09 PM modul.Logv run
+INFO: Thread-16 {"result":"Data Tidak Ada","com":"HIST_TOUP","datetime":"2018-08-04 23:06:09 ","resultcode":"0001","counter":11917}
+Aug 04, 2018 11:09:36 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-20 {"com":"HIST_TOPUP","id_idn":"PAB00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":39371}
+Aug 04, 2018 11:09:36 PM modul.Logv run
+INFO: Thread-20 {"result":"Data Tidak Ada","com":"HIST_TOUP","datetime":"2018-08-04 23:09:36 ","resultcode":"0001","counter":39371}
+Aug 04, 2018 11:36:48 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAB00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":41907}
+Aug 04, 2018 11:36:48 PM modul.Logv run
+INFO: Thread-4 {"result":"Data Tidak Ada","com":"HIST_TOUP","datetime":"2018-08-04 23:36:48 ","resultcode":"0001","counter":41907}
+Aug 04, 2018 11:38:53 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAB00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":64511}
+Aug 04, 2018 11:38:53 PM modul.Logv run
+INFO: Thread-4 {"result":"Data Tidak Ada","com":"HIST_TOUP","datetime":"2018-08-04 23:38:53 ","resultcode":"0001","counter":64511}
+Aug 04, 2018 11:39:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":21618}
+Aug 04, 2018 11:39:51 PM modul.Logv run
+INFO: Thread-8 {"com":"HIST_TOPUP","datetime":"2018-08-04 23:39:51 ","id_idn":"PAI00003","waktu1":"12:40:59","resultcode":"0000","jumlah1":"1500000","tgl1":"2018-07-22"}
+Aug 04, 2018 11:42:06 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":69556}
+Aug 04, 2018 11:42:06 PM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","waktu3":"12:40:59","waktu2":"12:40:59","jumlah3":"1500000","tgl3":"2018-07-22","jumlah1":"1500000","tgl1":"2018-06-02","jumlah2":"1500000","tgl2":"2018-07-03","datetime":"2018-08-04 23:42:05 ","id_idn":"PAI00003","waktu1":"05:33:11","resultcode":"0000"}
+Aug 04, 2018 11:43:33 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":19335}
+Aug 04, 2018 11:43:33 PM modul.Logv run
+INFO: Thread-8 {"com":"HIST_TOPUP","waktu3":"12:40:59","waktu2":"12:40:59","jumlah3":"1500000","tgl3":"2018-07-22","jumlah1":"1300000","tgl1":"2018-06-02","jumlah2":"1400000","tgl2":"2018-07-03","datetime":"2018-08-04 23:43:33 ","id_idn":"PAI00003","waktu1":"05:33:11","resultcode":"0000"}
+Aug 04, 2018 11:44:31 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":27481}
+Aug 04, 2018 11:44:31 PM modul.Logv run
+INFO: Thread-12 {"com":"HIST_TOPUP","waktu3":"12:40:59","waktu2":"16:40:59","jumlah3":"1500000","tgl3":"2018-07-22","jumlah1":"1300000","tgl1":"2018-06-02","jumlah2":"1400000","tgl2":"2018-07-03","datetime":"2018-08-04 23:44:31 ","id_idn":"PAI00003","waktu1":"05:33:11","resultcode":"0000"}
+Aug 04, 2018 11:46:48 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":95396}
+Aug 04, 2018 11:46:48 PM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","waktu3":"12:40:59","waktu2":"16:40:59","jumlah3":"1500000","tgl3":"2018-07-22","jumlah1":"1300000","tgl1":"2018-06-02","jumlah2":"1400000","tgl2":"2018-07-03","total":4,"datetime":"2018-08-04 23:46:47 ","id_idn":"PAI00003","waktu1":"05:33:11","resultcode":"0000"}
+Aug 04, 2018 11:48:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_TOPUP","id_idn":"PAI00003","tgl_dari":"2018-05-19","tgl_akhir":"2018-08-19","counter":29912}
+Aug 04, 2018 11:48:51 PM modul.Logv run
+INFO: Thread-4 {"com":"HIST_TOPUP","waktu3":"12:40:59","waktu2":"16:40:59","jumlah3":"1500000","tgl3":"2018-07-22","jumlah1":"1300000","tgl1":"2018-06-02","jumlah2":"1400000","tgl2":"2018-07-03","total":3,"datetime":"2018-08-04 23:48:50 ","id_idn":"PAI00003","waktu1":"05:33:11","resultcode":"0000"}

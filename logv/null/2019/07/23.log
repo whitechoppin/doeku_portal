@@ -1,0 +1,48 @@
+Jul 23, 2019 1:43:20 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00003","counter":76239}
+Jul 23, 2019 1:43:20 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 13:43:18 ","resultcode":"0009"}
+Jul 23, 2019 1:50:35 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":49487}
+Jul 23, 2019 1:50:35 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 13:50:32 ","resultcode":"0009"}
+Jul 23, 2019 2:05:27 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":90711}
+Jul 23, 2019 2:05:27 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 14:05:24 ","resultcode":"0009"}
+Jul 23, 2019 2:29:23 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_P","ididn":"PAI00002","counter":26649}
+Jul 23, 2019 2:29:23 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 14:29:21 ","resultcode":"0009"}
+Jul 23, 2019 2:33:00 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_P","ididn":"PAI00002","counter":29849}
+Jul 23, 2019 2:33:00 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 14:32:57 ","resultcode":"0009"}
+Jul 23, 2019 2:51:17 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":61545}
+Jul 23, 2019 2:51:17 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 14:51:15 ","resultcode":"0009"}
+Jul 23, 2019 3:00:43 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":43288}
+Jul 23, 2019 3:00:43 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 15:00:41 ","resultcode":"0009"}
+Jul 23, 2019 3:03:15 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":94979}
+Jul 23, 2019 3:03:15 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 15:03:10 ","resultcode":"0009"}
+Jul 23, 2019 3:12:02 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":38611}
+Jul 23, 2019 3:12:02 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 15:11:58 ","resultcode":"0009"}
+Jul 23, 2019 3:24:04 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":42269}
+Jul 23, 2019 3:24:04 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 15:24:03 ","resultcode":"0009"}
+Jul 23, 2019 3:27:16 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":89865}
+Jul 23, 2019 3:27:16 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 15:27:15 ","resultcode":"0009"}
+Jul 23, 2019 3:32:03 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_IDN_I","ididn":"PAI00001","counter":10510}
+Jul 23, 2019 3:32:03 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-07-23 15:32:02 ","resultcode":"0009"}

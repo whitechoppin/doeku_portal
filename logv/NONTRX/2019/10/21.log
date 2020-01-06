@@ -1,0 +1,20 @@
+Oct 21, 2019 12:24:06 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_PINJAM","id_trx":"TRB0000000001","counter":40989}
+Oct 21, 2019 12:24:06 PM modul.Logv run
+INFO: Thread-4 {"result":"Data Tidak Ada","com":"CEK_PINJAM","datetime":"2019-10-21 12:24:06 ","resultcode":"0001","counter":40989}
+Oct 21, 2019 2:18:16 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"HIST_PAY","id_brw":"PB0001","halaman":"3","counter":83303}
+Oct 21, 2019 2:18:16 PM modul.Logv run
+INFO: Thread-8 {"result":"Data Tidak Ada","com":"HIST_PAY","datetime":"2019-10-21 14:18:16 ","resultcode":"0001","counter":83303}
+Oct 21, 2019 6:28:57 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_BRW","idbrw":"PAB00002","counter":91691}
+Oct 21, 2019 6:28:57 PM modul.Logv run
+INFO: Thread-4 {"com":"CEK_BRW","provinsi":"Aceh","camat_u":null,"prov_u":null,"telp_kantor":"04412312312","nikah":"0","tgl_masuk":"2019-10-11","telp_pribadi":"085397587200","id_trx":"TRB0000000001","min_pinjam":0,"datetime":"2019-10-21 18:28:55 ","bank":"","tempat_lahir":"sabar","limit":0,"id_brw":"PAB00002","lurah_u":null,"email":"ilhamsabar@gmail.com","kantor":"tes","nova":"9880044419102104","alamat_kantor":"tes","nama_darurat":"tes","kota":"KAB. ACEH SELATAN","ktp":"12231231231231","npwp":"12231231231231","alamat_darurat":"tes","counter":91691,"kelurahan":"Keude Bakongan","tgl_lahir":"1993-10-11","alamat":"tes","kota_u":null,"status_usaha":"1","nama":"ilham","norek":"","hub_darurat":"saudara","kecamatan":"Bakongan","resultcode":"0000","telp_darurat":"086432312312","jum_tanggung":2,"telp_rumah":"08539483123","atas_nama":""}
+Oct 21, 2019 6:31:01 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"CEK_BRW","idbrw":"PAB00002","counter":95946}
+Oct 21, 2019 6:31:01 PM modul.Logv run
+INFO: Thread-8 {"com":"CEK_BRW","provinsi":"Aceh","camat_u":null,"prov_u":null,"telp_kantor":"04412312312","nikah":"0","tgl_masuk":"2019-10-11","telp_pribadi":"085397587200","id_trx":"TRB0000000001","min_pinjam":0,"datetime":"2019-10-21 18:31:00 ","bank":"","tempat_lahir":"sabar","limit":0,"id_brw":"PAB00002","lurah_u":null,"email":"ilhamsabar@gmail.com","kantor":"tes","nova":"9880044419102104","alamat_kantor":"tes","nama_darurat":"tes","kota":"KAB. ACEH SELATAN","ktp":"12231231231231","npwp":"12231231231231","alamat_darurat":"tes","counter":95946,"kelurahan":"Keude Bakongan","tgl_lahir":"1993-10-11","alamat":"tes","kota_u":null,"status_usaha":"1","nama":"ilham","norek":"","hub_darurat":"saudara","kecamatan":"Bakongan","resultcode":"0000","telp_darurat":"086432312312","jum_tanggung":2,"telp_rumah":"08539483123","atas_nama":""}
+Oct 21, 2019 6:42:14 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","halaman":"1","counter":77760}
+Oct 21, 2019 6:42:14 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","datetime":"2019-10-21 18:42:12 ","data":[],"id_idn":"PAI00003","resultcode":"0000"}

@@ -1,0 +1,4 @@
+Oct 05, 2018 4:34:31 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"AUTO_INV","id_idn":"PAI00003","grade":"A,B,C","dari_skor":"7.0","sampai_skor":"10.0","alasan":"1,2,3","counter":51250}
+Oct 05, 2018 4:34:31 PM modul.Logv run
+INFO: Thread-8 {"com":"AUTO_INV","datetime":"2018-10-05 16:34:31 ","resultcode":"0000","counter":51250}

@@ -1,0 +1,4 @@
+Oct 02, 2018 3:57:05 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REJECT_MSG","id_msg":"5","id_user":"PAB00005","counter":45812}
+Oct 02, 2018 3:57:05 PM modul.Logv run
+INFO: Thread-4 {"com":"REJECT_MSG","datetime":"2018-10-02 15:57:05","resultcode":"0000"}

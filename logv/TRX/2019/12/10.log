@@ -1,0 +1,24 @@
+Dec 10, 2019 9:26:27 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 10, 2019 9:26:27 AM modul.Logv run
+INFO: Thread-4 {"com":"PINJAM_BRW","datetime":"2019-12-10 09:26:25 ","resultcode":"0001","resultreg":"FAILED REGISTER","counter":72929,"message_registrasi":"null"}
+Dec 10, 2019 9:28:01 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 10, 2019 9:28:01 AM modul.Logv run
+INFO: Thread-4 {"com":"PINJAM_BRW","datetime":"2019-12-10 09:27:59 ","resultcode":"0001","resultreg":"FAILED REGISTER","counter":72929,"message_registrasi":"Email \/ No HP. sudah terdaftar"}
+Dec 10, 2019 9:33:33 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-5 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 10, 2019 9:33:33 AM modul.Logv run
+INFO: Thread-5 {"com":"PINJAM_BRW","datetime":"2019-12-10 09:33:29 ","resultcode":"0001","resultreg":"FAILED REGISTER","counter":72929,"message_registrasi":"Email \/ No HP. sudah terdaftar"}
+Dec 10, 2019 9:37:41 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 10, 2019 9:37:41 AM modul.Logv run
+INFO: Thread-4 {"status_registrasi":null,"com":"PINJAM_BRW","datetime":"2019-12-10 09:37:34 ","jumlah":1000000,"id_brw":"PAB00001","resultcode":"0000","counter":72929,"message_registrasi":null}
+Dec 10, 2019 9:41:37 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 10, 2019 9:41:37 AM modul.Logv run
+INFO: Thread-8 {"status_registrasi":null,"com":"PINJAM_BRW","datetime":"2019-12-10 09:41:36 ","jumlah":1000000,"id_brw":"PAB00001","resultcode":"0000","counter":72929,"message_registrasi":null}
+Dec 10, 2019 10:38:00 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-5 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 10, 2019 10:38:00 AM modul.Logv run
+INFO: Thread-5 {"status_registrasi":"0001","com":"PINJAM_BRW","datetime":"2019-12-10 10:37:39 ","jumlah":1000000,"id_brw":"PAB00001","resultcode":"0000","counter":72929,"message_registrasi":"Email \/ No HP. sudah terdaftar"}

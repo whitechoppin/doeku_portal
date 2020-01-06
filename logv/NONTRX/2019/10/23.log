@@ -1,0 +1,4 @@
+Oct 23, 2019 7:46:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"tester","email":"abcd3177@gmail.com","telp_pribadi":"08124721573","jenkel":"1","pass":"A1234567b","imei":"672374238382","counter":58383}
+Oct 23, 2019 7:46:51 PM modul.Logv run
+INFO: Thread-4 {"result":"Data User Sudah Ada","com":"REGIST_BRW","datetime":"2019-10-23 19:46:50 ","resultcode":"0001","counter":58383}

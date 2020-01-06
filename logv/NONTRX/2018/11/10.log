@@ -1,0 +1,72 @@
+Nov 10, 2018 11:46:01 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"099fbdce91269bed5d20b1065b84c43f","ipku":"12345","counter":50025}
+Nov 10, 2018 11:46:01 AM modul.Logv run
+INFO: Thread-8 {"com":"LOGIN_BRW","datetime":"2018-11-10 11:46:01 ","resultcode":"0003","counter":50025}
+Nov 10, 2018 11:46:31 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"f366ae437744355edd7985190e7002be","ipku":"12345","counter":75662}
+Nov 10, 2018 11:46:31 AM modul.Logv run
+INFO: Thread-12 {"com":"LOGIN_BRW","datetime":"2018-11-10 11:46:31 ","resultcode":"0003","counter":75662}
+Nov 10, 2018 11:47:43 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"1854bf0fd9f4f6264629757a6818e867","ipku":"12345","counter":34702}
+Nov 10, 2018 11:47:43 AM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-11-10 11:47:42 ","resultcode":"0003","counter":34702}
+Nov 10, 2018 11:47:59 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"a38d4e783865704a616280345a4eb1a6","ipku":"12345","counter":30654}
+Nov 10, 2018 11:47:59 AM modul.Logv run
+INFO: Thread-8 {"com":"LOGIN_BRW","datetime":"2018-11-10 11:47:59 ","resultcode":"0003","counter":30654}
+Nov 10, 2018 11:48:29 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"27ebca7c7de7eadb68f7a65229ca85a1","ipku":"12345","counter":11194}
+Nov 10, 2018 11:48:29 AM modul.Logv run
+INFO: Thread-12 {"com":"LOGIN_BRW","datetime":"2018-11-10 11:48:29 ","resultcode":"0003","counter":11194}
+Nov 10, 2018 11:48:34 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-16 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"34c4d72340bb7e1d81ca1e43c91323b7","ipku":"12345","counter":91166}
+Nov 10, 2018 11:48:34 AM modul.Logv run
+INFO: Thread-16 {"com":"LOGIN_BRW","datetime":"2018-11-10 11:48:34 ","resultcode":"0003","counter":91166}
+Nov 10, 2018 11:52:45 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-20 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"26b1f69bb77d2832d54c3b09c16b1b6f","ipku":"12345","counter":93608}
+Nov 10, 2018 11:52:45 AM modul.Logv run
+INFO: Thread-20 {"com":"LOGIN_BRW","datetime":"2018-11-10 11:52:45 ","nama":"7 Tester","idbrw":"PAB00003","resultcode":"0000","counter":93608}
+Nov 10, 2018 12:16:31 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-28 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"f1fe4d1617c4f68e367bba2ded0cf0cc","ipku":"12345","counter":65848}
+Nov 10, 2018 12:16:31 PM modul.Logv run
+INFO: Thread-28 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:16:31 ","nama":"7 Tester","idbrw":"PAB00003","resultcode":"0000","counter":65848}
+Nov 10, 2018 12:16:57 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-32 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"9bccbff6161cbb6ffe390e29901e8410","ipku":"12345","counter":14259}
+Nov 10, 2018 12:16:57 PM modul.Logv run
+INFO: Thread-32 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:16:57 ","resultcode":"0003","counter":14259}
+Nov 10, 2018 12:17:12 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-36 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"07927818bc04ca228d5d57a26030af2f","ipku":"12345","counter":34205}
+Nov 10, 2018 12:17:12 PM modul.Logv run
+INFO: Thread-36 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:17:11 ","resultcode":"0003","counter":34205}
+Nov 10, 2018 12:17:35 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-40 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"83d4cc27d2fe6048da0ce2b644fdf5fa","ipku":"12345","counter":70897}
+Nov 10, 2018 12:17:35 PM modul.Logv run
+INFO: Thread-40 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:17:35 ","nama":"7 Tester","idbrw":"PAB00003","resultcode":"0000","counter":70897}
+Nov 10, 2018 12:18:31 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-44 {"com":"LOGIN_BRW","idbrw":"PAB00003","code":"12345678","pass":"ee2f388d25935710e26317b60ff5faea","ipku":"12345","counter":20288}
+Nov 10, 2018 12:18:31 PM modul.Logv run
+INFO: Thread-44 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:18:31 ","nama":"7 Tester","idbrw":"PAB00003","resultcode":"0000","counter":20288}
+Nov 10, 2018 12:33:24 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-52 {"com":"LOGIN_BRW","idbrw":"PAB000001","code":"12345678","pass":"4e2bdc46507331dc743be9a8d5d1b987","ipku":"12345","counter":60061}
+Nov 10, 2018 12:33:24 PM modul.Logv run
+INFO: Thread-52 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:33:24 ","resultcode":"0003","counter":60061}
+Nov 10, 2018 12:34:21 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-56 {"com":"LOGIN_BRW","idbrw":"PAB000003","code":"12345678","pass":"582362a7a38c05c7c7a32f0ba092cd89","ipku":"12345","counter":91897}
+Nov 10, 2018 12:34:21 PM modul.Logv run
+INFO: Thread-56 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:34:21 ","resultcode":"0003","counter":91897}
+Nov 10, 2018 12:35:27 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-60 {"com":"LOGIN_BRW","idbrw":"PAB00001","code":"12345678","pass":"01edddfad6277e36f6eeff02370f2a8e","ipku":"12345","counter":17690}
+Nov 10, 2018 12:35:27 PM modul.Logv run
+INFO: Thread-60 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:35:27 ","nama":"tester bisa 3","idbrw":"PAB00001","resultcode":"0000","counter":17690}
+Nov 10, 2018 12:35:49 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-64 {"com":"LOGIN_BRW","idbrw":"PAB00001","code":"12345678","pass":"96b769bff716481772d71951d2dea3b3","ipku":"12345","counter":91680}
+Nov 10, 2018 12:35:49 PM modul.Logv run
+INFO: Thread-64 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:35:49 ","resultcode":"0003","counter":91680}
+Nov 10, 2018 12:37:32 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-72 {"com":"LOGIN_BRW","idbrw":"PAB00004","code":"12345678","pass":"486ce39fc87e9fff6e7dcb5ecbff254e","ipku":"12345","counter":55373}
+Nov 10, 2018 12:37:32 PM modul.Logv run
+INFO: Thread-72 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:37:32 ","resultcode":"0003","counter":55373}
+Nov 10, 2018 12:37:57 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-76 {"com":"LOGIN_BRW","idbrw":"PAB00004","code":"12345678","pass":"46db48cecd0c055ca309224f1ea093ab","ipku":"12345","counter":90809}
+Nov 10, 2018 12:37:57 PM modul.Logv run
+INFO: Thread-76 {"com":"LOGIN_BRW","datetime":"2018-11-10 12:37:57 ","resultcode":"0003","counter":90809}

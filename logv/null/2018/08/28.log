@@ -1,0 +1,44 @@
+Aug 28, 2018 12:14:52 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"counter":93372}
+Aug 28, 2018 12:14:52 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 00:14:52 ","resultcode":"0009"}
+Aug 28, 2018 12:16:35 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"counter":68765}
+Aug 28, 2018 12:16:35 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 00:16:35 ","resultcode":"0009"}
+Aug 28, 2018 12:19:11 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"counter":93540}
+Aug 28, 2018 12:19:11 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 00:19:11 ","resultcode":"0009"}
+Aug 28, 2018 12:49:12 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LOG_PINJAMAN","id_trx":"TRB0000000014","counter":83781}
+Aug 28, 2018 12:49:12 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 00:49:11 ","resultcode":"0009"}
+Aug 28, 2018 12:58:22 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"UBAH_PASS","id_user":"PAB00002","pass_lama":"123","pass_baru":"321","counter":26037}
+Aug 28, 2018 12:58:22 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 12:58:21 ","resultcode":"0009"}
+Aug 28, 2018 1:01:20 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"UBAH_PASS","id_user":"PAB00002","pass_lama":"123","pass_baru":"321","counter":26037}
+Aug 28, 2018 1:01:20 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 13:01:19 ","resultcode":"0009"}
+Aug 28, 2018 1:08:55 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-19 {"com":"HIST_DRAW","id_idn":"PAI00003","tgl_dari":"2018-07-20","tgl_akhir":"2018-05-19","counter":26037}
+Aug 28, 2018 1:08:55 PM modul.Logv run
+INFO: Thread-19 {"datetime":"2018-08-28 13:08:55 ","resultcode":"0002"}
+Aug 28, 2018 1:10:04 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-22 {"com":"HIST_DRAW","id_idn":"PAI00005","tgl_dari":"2018-07-20","tgl_akhir":"2018-05-19","counter":26037}
+Aug 28, 2018 1:10:04 PM modul.Logv run
+INFO: Thread-22 {"datetime":"2018-08-28 13:10:04 ","resultcode":"0002"}
+Aug 28, 2018 1:10:48 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-26 {"com":"HIST_WITHDRAW","id_idn":"PAI00005","tgl_dari":"2018-07-20","tgl_akhir":"2018-05-19","counter":26037}
+Aug 28, 2018 1:10:48 PM modul.Logv run
+INFO: Thread-26 {"datetime":"2018-08-28 13:10:48 ","resultcode":"0009"}
+Aug 28, 2018 1:12:29 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_WITHDRAW","id_idn":"PAI00005","tgl_dari":"2018-07-20","tgl_akhir":"2018-05-19","counter":26037}
+Aug 28, 2018 1:12:29 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 13:12:29 ","resultcode":"0009"}
+Aug 28, 2018 1:14:35 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"HIST_WITHDRAW","id_idn":"PAI00005","tgl_dari":"2018-07-20","tgl_akhir":"2018-05-19","counter":26037}
+Aug 28, 2018 1:14:35 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-28 13:14:34 ","resultcode":"0009"}

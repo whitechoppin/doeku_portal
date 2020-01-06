@@ -1,0 +1,8 @@
+Dec 03, 2019 9:49:28 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 03, 2019 9:49:28 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-12-03 09:49:22 ","resultcode":"0009"}
+Dec 03, 2019 10:08:52 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"PINJAM_BRW","id_brw":"PAB00001","nova":"1722212399336893","jumlah":1000000,"tenor":180,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Dec 03, 2019 10:08:52 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2019-12-03 10:08:49 ","resultcode":"0009"}

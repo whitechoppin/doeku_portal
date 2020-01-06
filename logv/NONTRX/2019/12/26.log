@@ -1,0 +1,4 @@
+Dec 26, 2019 8:17:40 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"EMAIL_CONF","pos":"PAB","kode":"BFGNMO","counter":69210}
+Dec 26, 2019 8:17:40 PM modul.Logv run
+INFO: Thread-4 {"com":"EMAIL_CONF","datetime":"2019-12-26 20:17:40 ","resultcode":"0000"}

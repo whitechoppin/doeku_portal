@@ -1,0 +1,88 @@
+Aug 12, 2019 9:39:03 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"tenor":14,"counter":70004}
+Aug 12, 2019 9:39:03 AM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","bunga14":700000,"datetime":"2019-08-12 09:39:02 ","total":700000,"biaya":0,"jatuh_tempo":"2019-08-26","bunga30":700000,"resultcode":"0000","counter":70004,"bunga7":700000}
+Aug 12, 2019 9:39:35 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":15811}
+Aug 12, 2019 9:39:35 AM modul.Logv run
+INFO: Thread-8 {"com":"SIM_HITUNG","bunga14":500000,"datetime":"2019-08-12 09:39:35 ","total":500000,"biaya":0,"jatuh_tempo":"2019-08-26","bunga30":500000,"resultcode":"0000","counter":15811,"bunga7":500000}
+Aug 12, 2019 9:43:46 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":86764}
+Aug 12, 2019 9:43:46 AM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","bunga14":502527,"datetime":"2019-08-12 09:43:46 ","total":500000,"biaya":0,"jatuh_tempo":"2019-08-26","bunga30":501944,"resultcode":"0000","counter":86764,"bunga7":502916}
+Aug 12, 2019 9:46:25 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":97355}
+Aug 12, 2019 9:46:25 AM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 09:46:25 ","total":500000,"biaya":0,"jatuh_tempo":"2019-08-26","resultcode":"0000","counter":97355,"bunga":502527}
+Aug 12, 2019 9:51:38 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":88714}
+Aug 12, 2019 9:51:38 AM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 09:51:34 ","total":992527,"biaya":10000,"jatuh_tempo":"2019-08-26","resultcode":"0000","counter":88714,"bunga":502527}
+Aug 12, 2019 10:16:26 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":80795}
+Aug 12, 2019 10:16:26 AM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","bunga_rupiah":502527,"datetime":"2019-08-12 10:16:25 ","total":1002527,"biaya":0,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","counter":80795}
+Aug 12, 2019 12:07:19 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","jumlah":1300000,"durasi":30,"counter":36946}
+Aug 12, 2019 12:07:19 PM modul.Logv run
+INFO: Thread-4 {"result":"Data User Sudah Ada","com":"REGIST_BRW","datetime":"2019-08-12 12:07:18 ","resultcode":"0001","counter":36946}
+Aug 12, 2019 12:12:44 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","jumlah":1300000,"durasi":30,"counter":26042}
+Aug 12, 2019 12:12:44 PM modul.Logv run
+INFO: Thread-4 {"result":"Data User Sudah Ada","com":"REGIST_BRW","datetime":"2019-08-12 12:12:44 ","resultcode":"0001","counter":26042}
+Aug 12, 2019 12:20:29 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","jumlah":1300000,"durasi":30,"counter":52563}
+Aug 12, 2019 12:20:29 PM modul.Logv run
+INFO: Thread-8 {"com":"REGIST_BRW","datetime":"2019-08-12 12:20:29 ","iduser":"PAB00001","resultcode":"0000","counter":52563,"nova":"1722208124721567"}
+Aug 12, 2019 12:27:52 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","jumlah":1300000,"durasi":30,"counter":58966}
+Aug 12, 2019 12:27:52 PM modul.Logv run
+INFO: Thread-12 {"com":"REGIST_BRW","datetime":"2019-08-12 12:27:52 ","iduser":"PAB00001","resultcode":"0000","counter":58966,"nova":"1722208124721567"}
+Aug 12, 2019 1:00:05 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","rekam_diri":"diri","rekam_suara":"suara","rekam_lokasi":"lokasi","jumlah":1300000,"durasi":30,"counter":69642}
+Aug 12, 2019 1:00:05 PM modul.Logv run
+INFO: Thread-4 {"com":"REGIST_BRW","datetime":"2019-08-12 13:00:04 ","iduser":"PAB00001","resultcode":"0000","counter":69642,"nova":"1722208124721567"}
+Aug 12, 2019 1:02:37 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","rekam_diri":"diri","rekam_suara":"suara","rekam_lokasi":"lokasi","jumlah":1300000,"durasi":30,"counter":26918}
+Aug 12, 2019 1:02:37 PM modul.Logv run
+INFO: Thread-8 {"com":"REGIST_BRW","datetime":"2019-08-12 13:02:37 ","iduser":"PAB00001","resultcode":"0000","counter":26918,"nova":"1722208124721567"}
+Aug 12, 2019 1:07:13 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","rekam_diri":"diri","rekam_suara":"suara","rekam_lokasi":"lokasi","jumlah":1300000,"durasi":30,"counter":65571}
+Aug 12, 2019 1:07:13 PM modul.Logv run
+INFO: Thread-4 {"result":"Data User Sudah Ada","com":"REGIST_BRW","datetime":"2019-08-12 13:07:13 ","resultcode":"0001","counter":65571}
+Aug 12, 2019 1:07:45 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"REGIST_BRW","nama":"tester","alamat":"jl.tes","provinsi":"Sulawesi Tengah","kota":"Palu","kecamatan":"kulawi","kelurahan":"tondo","tempat_lahir":"Palu","tgl_lahir":"170920017","ktp":"57273948279837429","npwp":"28478394853","email":"abcd31@gmail.com","jum_tanggung":3,"norek":"246728374827","atas_nama":"cobaers","bank":"Danamon","provinsi_u":"Sulawesi Tenggara","kota_u":"Kendari","kecamatan_u":"camat_usaha","kelurahan_u":"kel usaha","telp_darurat":"04111234567","telp_pribadi":"08124721567","telp_usaha":"0451234898","telp_rumah":"02189076543","kodepos_pribadi":"89075","kodepos_usaha":"876543","nama_usaha":"PT COBA","alamat_usaha":"jl usaha no 1","foto_diri":"http:\/tes\/com?fix\/local\/diri","foto_ktp":"http:\/tes\/com?fix\/local\/ktp","foto_npwp":"http:\/tes\/com?fix\/local\/npwp","foto_rek":"http:\/tes\/com?fix\/local\/rek","foto_dalam":"http:\/tes\/com?fix\/local\/dalam","foto_luar":"http:\/tes\/com?fix\/local\/luar","foto_depan":"http:\/tes\/com?fix\/local\/depan","status_usaha":1,"lama_usaha":"20 Tahun 11 Bulan","nama_darurat":"ujicoba","alamat_darurat":"jl. uji","hub_darurat":"saudara","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"8279837482392fhjshdfjs82348209042","rekam_diri":"diri","rekam_suara":"suara","rekam_lokasi":"lokasi","jumlah":1300000,"durasi":30,"counter":24804}
+Aug 12, 2019 1:07:45 PM modul.Logv run
+INFO: Thread-8 {"com":"REGIST_BRW","datetime":"2019-08-12 13:07:45 ","iduser":"PAB00001","resultcode":"0000","counter":24804,"nova":"1722208124721567"}
+Aug 12, 2019 2:11:21 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":68197}
+Aug 12, 2019 2:11:21 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 14:11:21 ","total":500000,"biaya":0,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":0,"counter":68197}
+Aug 12, 2019 3:14:52 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":91633}
+Aug 12, 2019 3:14:52 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 15:14:51 ","total":500000,"biaya":0,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":0,"counter":91633}
+Aug 12, 2019 3:35:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":18157}
+Aug 12, 2019 3:35:51 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 15:35:51 ","total":500000,"biaya":0,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":0,"counter":18157}
+Aug 12, 2019 3:39:31 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":17940}
+Aug 12, 2019 3:39:31 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 15:39:30 ","total":520000,"biaya":10000,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":10000,"counter":17940}
+Aug 12, 2019 3:50:59 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":18995}
+Aug 12, 2019 3:50:59 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 15:50:59 ","total":520000,"biaya":10000,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":10000,"counter":18995}
+Aug 12, 2019 3:55:09 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":97648}
+Aug 12, 2019 3:55:09 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 15:55:08 ","total":25000,"biaya":10000,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":10000,"counter":97648}
+Aug 12, 2019 4:01:33 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":91389}
+Aug 12, 2019 4:01:33 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 16:01:32 ","total":520000.0,"biaya":10000,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":10000,"counter":91389}
+Aug 12, 2019 4:34:53 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":500000,"tenor":14,"counter":49303}
+Aug 12, 2019 4:34:53 PM modul.Logv run
+INFO: Thread-4 {"com":"SIM_HITUNG","datetime":"2019-08-12 16:34:53 ","total":529100.0,"biaya":10000,"jatuh_tempo":"2019-08-26","bunga_persen":0.13,"resultcode":"0000","asuransi":10000,"counter":49303}

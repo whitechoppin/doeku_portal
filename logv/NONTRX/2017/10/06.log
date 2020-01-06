@@ -1,0 +1,142 @@
+Oct 06, 2017 12:58:26 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 12:58:26 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>06-10-2017 12:58:25 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 12:59:06 PM modul.Logv run
+SEVERE: Thread-8 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>93882039802</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>94111</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Oct 06, 2017 12:59:06 PM modul.Logv run
+INFO: Thread-8 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>06-10-2017 12:59:06 </datetime><com>REGISTRASI</com></dpay>
+Oct 06, 2017 9:07:03 PM modul.Logv run
+SEVERE: Thread-5 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:07:03 PM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:07:03 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 9:07:38 PM modul.Logv run
+SEVERE: Thread-9 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:07:38 PM modul.Logv run
+INFO: Thread-9 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:07:38 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 9:11:40 PM modul.Logv run
+SEVERE: Thread-5 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:11:40 PM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:11:40 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 9:12:04 PM modul.Logv run
+SEVERE: Thread-8 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:12:04 PM modul.Logv run
+INFO: Thread-8 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:12:04 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 9:14:17 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:14:17 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:14:17 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 9:15:03 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:15:03 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:15:03 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 9:15:39 PM modul.Logv run
+SEVERE: Thread-8 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>93882039802</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>94111</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Oct 06, 2017 9:15:39 PM modul.Logv run
+INFO: Thread-8 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>2017-10-06 09:15:39 </datetime><com>REGISTRASI</com></dpay>
+Oct 06, 2017 9:15:59 PM modul.Logv run
+SEVERE: Thread-12 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>93882039802</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>94111</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Oct 06, 2017 9:15:59 PM modul.Logv run
+INFO: Thread-12 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>2017-10-06 09:15:59 </datetime><com>REGISTRASI</com></dpay>
+Oct 06, 2017 9:25:24 PM modul.Logv run
+SEVERE: Thread-8 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>93882039802</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>9411</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Oct 06, 2017 9:25:24 PM modul.Logv run
+INFO: Thread-8 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>2017-10-06 09:25:23 </datetime><com>REGISTRASI</com></dpay>
+Oct 06, 2017 9:25:33 PM modul.Logv run
+SEVERE: Thread-11 <dpay><com>REGISTRASI</com><namauser>Tester</namauser><email>tester@gmail.com</email><telp>08127381721</telp><pass>ashj234jas</pass><sques>31</sques><sans>tommy</sans><ktp>93882039802</ktp><negara>23</negara><prov>sulsel</prov><kota>makassar</kota><alamat>jl. tes</alamat><kodepos>9411</kodepos><tgllahir>1980-08-17</tgllahir><counter>12513</counter></dpay>
+Oct 06, 2017 9:25:33 PM modul.Logv run
+INFO: Thread-11 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0001</resultcode><result>Data User Sudah Ada</result><datetime>2017-10-06 09:25:33 </datetime><com>REGISTRASI</com></dpay>
+Oct 06, 2017 9:26:51 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:26:51 PM modul.Logv run
+SEVERE: Thread-6 	
+Oct 06, 2017 9:26:51 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:26:51 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 9:26:51 PM modul.Logv run
+INFO: Thread-6 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>06-10-2017 09:26:51 </datetime></dpay>
+Oct 06, 2017 9:29:00 PM modul.Logv run
+SEVERE: Thread-16 <dpay><com>CEKUSER</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 9:29:00 PM modul.Logv run
+INFO: Thread-16 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 09:29:00 </datetime><com>CEKUSER</com><iduser>DPAY00003</iduser><email>tester@gmail.com</email><ktp>93882039802</ktp><deposit>589998</deposit><counter>28378</counter></dpay>
+Oct 06, 2017 10:50:23 PM modul.Logv run
+SEVERE: Thread-5 <dpay><com>TOPUP</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter><namapengirim>tester</namapengirim><bankpengirim>panin</bankpengirim><banktujuan>bca</banktujuan><rekeningpengirim>3478232-242</rekeningpengirim><rekeningtujuan>2342-234223</rekeningtujuan><nominal>782372</nominal><matauang>USD</matauang></dpay>
+Oct 06, 2017 10:50:23 PM modul.Logv run
+SEVERE: Thread-7 	
+Oct 06, 2017 10:50:23 PM modul.Logv run
+INFO: Thread-7 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 22:50:23 </datetime></dpay>
+Oct 06, 2017 10:50:23 PM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 22:50:21 </datetime><com>TOPUP</com><iduser>DPAY00003</iduser><deposit>782372</deposit><counter>28378</counter></dpay>
+Oct 06, 2017 10:51:05 PM modul.Logv run
+SEVERE: Thread-5 <dpay><com>TOPUP</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter><namapengirim>tester</namapengirim><bankpengirim>panin</bankpengirim><banktujuan>bca</banktujuan><rekeningpengirim>3478232-242</rekeningpengirim><rekeningtujuan>2342-234223</rekeningtujuan><nominal>782372</nominal><matauang>USD</matauang></dpay>
+Oct 06, 2017 10:51:05 PM modul.Logv run
+SEVERE: Thread-7 	
+Oct 06, 2017 10:51:05 PM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 22:51:04 </datetime><com>TOPUP</com><iduser>DPAY00003</iduser><deposit>782372</deposit><counter>28378</counter></dpay>
+Oct 06, 2017 10:51:05 PM modul.Logv run
+INFO: Thread-7 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 22:51:05 </datetime></dpay>
+Oct 06, 2017 10:56:20 PM modul.Logv run
+SEVERE: Thread-5 <dpay><com>TOPUP</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter><namapengirim>tester</namapengirim><bankpengirim>panin</bankpengirim><banktujuan>bca</banktujuan><rekeningpengirim>3478232-242</rekeningpengirim><rekeningtujuan>2342-234223</rekeningtujuan><nominal>300000</nominal><matauang>USD</matauang></dpay>
+Oct 06, 2017 10:56:20 PM modul.Logv run
+SEVERE: Thread-7 	
+Oct 06, 2017 10:56:20 PM modul.Logv run
+INFO: Thread-7 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 22:56:20 </datetime></dpay>
+Oct 06, 2017 10:56:20 PM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 22:56:19 </datetime><com>TOPUP</com><iduser>DPAY00003</iduser><deposit>300000</deposit><counter>28378</counter></dpay>
+Oct 06, 2017 10:59:05 PM modul.Logv run
+SEVERE: Thread-5 <dpay><com>TOPUP</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter><namapengirim>tester</namapengirim><bankpengirim>panin</bankpengirim><banktujuan>bca</banktujuan><rekeningpengirim>3478232-242</rekeningpengirim><rekeningtujuan>2342-234223</rekeningtujuan><nominal>300000</nominal><matauang>USD</matauang></dpay>
+Oct 06, 2017 10:59:05 PM modul.Logv run
+SEVERE: Thread-7 	
+Oct 06, 2017 10:59:05 PM modul.Logv run
+INFO: Thread-7 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 22:59:05 </datetime></dpay>
+Oct 06, 2017 10:59:05 PM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 22:59:04 </datetime><com>TOPUP</com><iduser>DPAY00003</iduser><deposit>300000</deposit><counter>28378</counter></dpay>
+Oct 06, 2017 11:01:31 PM modul.Logv run
+SEVERE: Thread-12 <dpay><com>CEKUSER</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 11:01:31 PM modul.Logv run
+INFO: Thread-14 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 23:01:31 </datetime></dpay>
+Oct 06, 2017 11:01:31 PM modul.Logv run
+INFO: Thread-12 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 23:01:31 </datetime><com>CEKUSER</com><iduser>DPAY00003</iduser><email>tester@gmail.com</email><ktp>93882039802</ktp><deposit>2754742</deposit><counter>28378</counter></dpay>
+Oct 06, 2017 11:02:29 PM modul.Logv run
+SEVERE: Thread-19 <dpay><com>CEKUSER</com><iduser>DPAY00003</iduser><pass>980bw345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 11:02:29 PM modul.Logv run
+INFO: Thread-19 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0003</resultcode><datetime>2017-10-06 23:02:29 </datetime><com>CEKUSER</com></dpay>
+Oct 06, 2017 11:06:06 PM modul.Logv run
+SEVERE: Thread-5 <dpay><com>CEKUSER</com><iduser>DPAY00003</iduser><pass>980bw345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 11:06:06 PM modul.Logv run
+SEVERE: Thread-7 	
+Oct 06, 2017 11:06:07 PM modul.Logv run
+INFO: Thread-7 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 23:06:06 </datetime></dpay>
+Oct 06, 2017 11:06:07 PM modul.Logv run
+INFO: Thread-5 <dpay><resultcode>0003</resultcode><datetime>2017-10-06 23:06:05 </datetime><com>CEKUSER</com></dpay>
+Oct 06, 2017 11:09:02 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 11:09:02 PM modul.Logv run
+SEVERE: Thread-6 	
+Oct 06, 2017 11:09:02 PM modul.Logv run
+INFO: Thread-6 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 23:09:02 </datetime></dpay>
+Oct 06, 2017 11:09:02 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 23:09:01 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 11:10:39 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 11:10:39 PM modul.Logv run
+SEVERE: Thread-6 	
+Oct 06, 2017 11:10:39 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 23:10:38 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 11:10:39 PM modul.Logv run
+INFO: Thread-6 <?xml version="1.0" encoding="UTF-8"?><dpay1><resultcode>0002</resultcode><datetime>2017-10-06 23:10:39 </datetime></dpay1>
+Oct 06, 2017 11:15:28 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 11:15:28 PM modul.Logv run
+SEVERE: Thread-6 	
+Oct 06, 2017 11:15:28 PM modul.Logv run
+INFO: Thread-6 <?xml version="1.0" encoding="UTF-8"?><dpay1><resultcode>0002</resultcode><datetime>2017-10-06 23:15:28 </datetime></dpay1>
+Oct 06, 2017 11:15:28 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 23:15:27 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 11:22:31 PM modul.Logv run
+SEVERE: Thread-4 <dpay><com>LOGIN</com><iduser>DPAY00003</iduser><pass>980b345f031c41afd71cbb322a9c4f25</pass><counter>28378</counter></dpay>
+Oct 06, 2017 11:22:31 PM modul.Logv run
+SEVERE: Thread-6 	
+Oct 06, 2017 11:22:31 PM modul.Logv run
+INFO: Thread-4 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-10-06 23:22:30 </datetime><com>LOGIN</com><iduser>DPAY00003</iduser><nama>Tester</nama><counter>28378</counter></dpay>
+Oct 06, 2017 11:22:31 PM modul.Logv run
+INFO: Thread-6 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0002</resultcode><datetime>2017-10-06 23:22:31 </datetime></dpay>

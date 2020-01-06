@@ -1,0 +1,8 @@
+Oct 05, 2018 4:41:55 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"GET_AUTO_INV","id_idn":"PAI00003","counter":48512}
+Oct 05, 2018 4:41:55 PM modul.Logv run
+INFO: Thread-4 {"com":"GET_AUTO_INV","sampai_skor":"10.0","datetime":"2018-10-05 16:41:54 ","grade":"A,B,C","dari_skor":"7.0","resultcode":"0000","counter":48512,"alasan":"1,2,3"}
+Oct 05, 2018 4:43:03 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"STOP_AUTO_INV","id_idn":"PAI00003","counter":44035}
+Oct 05, 2018 4:43:03 PM modul.Logv run
+INFO: Thread-8 {"com":"STOP_AUTO_INV","datetime":"2018-10-05 16:43:03 ","resultcode":"0000","counter":44035}

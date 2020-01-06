@@ -1,0 +1,24 @@
+Aug 07, 2018 1:18:12 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_PRE_PINJAM","id_trx":"TRB0000000001","counter":23112}
+Aug 07, 2018 1:18:12 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-07 13:18:12 ","resultcode":"0009"}
+Aug 07, 2018 1:24:44 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_PRE_PINJAM","id_trx":"TRB0000000001","counter":86041}
+Aug 07, 2018 1:24:44 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-07 13:24:43 ","resultcode":"0009"}
+Aug 07, 2018 1:32:46 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"CEK_PRE_PINJAM","id_trx":"TRB0000000001","counter":64898}
+Aug 07, 2018 1:32:46 PM modul.Logv run
+INFO: Thread-12 {"datetime":"2018-08-07 13:32:46 ","resultcode":"0009"}
+Aug 07, 2018 11:11:51 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-3 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00003","counter":26567}
+Aug 07, 2018 11:11:51 PM modul.Logv run
+INFO: Thread-3 {"datetime":"2018-08-07 23:11:50 ","resultcode":"0002"}
+Aug 07, 2018 11:23:16 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00003","counter":94094}
+Aug 07, 2018 11:23:16 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-07 23:23:16 ","resultcode":"0009"}
+Aug 07, 2018 11:33:04 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"ACC_IDN_PINJAM","id_trx":"TRB0000000001","id_idn":"PAI00003","counter":77461}
+Aug 07, 2018 11:33:04 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-08-07 23:33:03 ","resultcode":"0009"}

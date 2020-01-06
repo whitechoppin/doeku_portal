@@ -1,0 +1,4 @@
+Nov 02, 2017 11:32:56 AM modul.Logv run
+SEVERE: Thread-5 <dpay><com>CEKUSER</com><iduser>DPAY00002</iduser><pass>849b13b4f105945d649b46f06556f83f</pass><counter>93710</counter></dpay>
+Nov 02, 2017 11:32:56 AM modul.Logv run
+INFO: Thread-5 <?xml version="1.0" encoding="UTF-8"?><dpay><resultcode>0000</resultcode><datetime>2017-11-02 11:32:55 </datetime><com>CEKUSER</com><iduser>DPAY00002</iduser><email>tester2345@gmail.com</email><ktp>9388203453498031</ktp><depousd>3.5483</depousd><depoidr>70000</depoidr><depoeur>13.2234</depoeur><counter>93710</counter></dpay>

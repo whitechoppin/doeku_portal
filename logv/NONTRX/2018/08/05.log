@@ -1,0 +1,20 @@
+Aug 05, 2018 11:01:02 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"ACC_PINJAM","id_trx":"TRB0000000001","counter":86091}
+Aug 05, 2018 11:01:02 PM modul.Logv run
+INFO: Thread-4 {"com":"ACC_PINJAM","datetime":"2018-08-05 23:01:01 ","resultcode":"0000","counter":86091}
+Aug 05, 2018 11:01:38 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"ACC_PINJAM","id_trx":"TRB0000000002","counter":39152}
+Aug 05, 2018 11:01:38 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_PINJAM","datetime":"2018-08-05 23:01:38 ","resultcode":"0000","counter":39152}
+Aug 05, 2018 11:20:01 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-7 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":64698}
+Aug 05, 2018 11:20:01 PM modul.Logv run
+INFO: Thread-7 {"com":"LIST_PINJAMAN","tenor1":"30","tenor2":"80","jumlah1":"500000","jumlah2":"1000000","total":2,"datetime":"2018-08-05 23:20:00 ","alasan1":"uang sekolah","id_brw2":"PAB00010","id_brw1":"PAB00005","id_idn":"PAI00003","resultcode":"0000","alasan2":"biaya sekolah saudara"}
+Aug 05, 2018 11:49:09 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":38177}
+Aug 05, 2018 11:49:09 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor1":"30","tenor2":"80","reff2":"TRB0000000002","reff1":"TRB0000000001","jumlah1":"500000","jumlah2":"1000000","total":2,"datetime":"2018-08-05 23:49:09 ","alasan1":"uang sekolah","id_brw2":"PAB00010","id_brw1":"PAB00005","id_idn":"PAI00003","resultcode":"0000","alasan2":"biaya sekolah saudara"}
+Aug 05, 2018 11:50:01 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"LIST_PINJAMAN","id_idn":"PAI00003","counter":39289}
+Aug 05, 2018 11:50:01 PM modul.Logv run
+INFO: Thread-4 {"com":"LIST_PINJAMAN","tenor1":"30","tenor2":"80","jumlah1":"500000","jumlah2":"1000000","total":2,"datetime":"2018-08-05 23:50:00 ","alasan1":"uang sekolah","id_brw2":"PAB00010","id_brw1":"PAB00005","id_idn":"PAI00003","id_trxb2":"TRB0000000002","id_trxb1":"TRB0000000001","resultcode":"0000","alasan2":"biaya sekolah saudara"}

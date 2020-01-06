@@ -1,0 +1,28 @@
+Oct 05, 2018 4:32:02 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"AUTO_INV","id_idn":"PAI00003","grade":"A,B,C","dari_skor":"7.0","sampai_skor":"10.0","alasan":"1,2,3","counter":58499}
+Oct 05, 2018 4:32:02 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-10-05 16:32:01 ","resultcode":"0009"}
+Oct 05, 2018 4:33:34 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"AUTO_INV","id_idn":"PAI00003","grade":"A,B,C","dari_skor":"7.0","sampai_skor":"10.0","alasan":"1,2,3","counter":15965}
+Oct 05, 2018 4:33:34 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-10-05 16:33:33 ","resultcode":"0009"}
+Oct 05, 2018 4:35:54 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-12 {"com":"GET_AUTO_INV","id_idn":"PAI00003","counter":24779}
+Oct 05, 2018 4:35:54 PM modul.Logv run
+INFO: Thread-12 {"datetime":"2018-10-05 16:35:54 ","resultcode":"0009"}
+Oct 05, 2018 4:38:11 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"GET_AUTO_INV","id_idn":"PAI00003","counter":58537}
+Oct 05, 2018 4:38:11 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-10-05 16:38:11 ","resultcode":"0009"}
+Oct 05, 2018 4:40:16 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"GET_AUTO_INV","id_idn":"PAI00003","counter":39075}
+Oct 05, 2018 4:40:16 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-10-05 16:40:16 ","resultcode":"0009"}
+Oct 05, 2018 4:41:01 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-8 {"com":"GET_AUTO_INV","id_idn":"PAI00003","counter":13254}
+Oct 05, 2018 4:41:01 PM modul.Logv run
+INFO: Thread-8 {"datetime":"2018-10-05 16:41:00 ","resultcode":"0009"}
+Oct 05, 2018 4:41:22 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"GET_AUTO_INV","id_idn":"PAI00003","counter":49053}
+Oct 05, 2018 4:41:22 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-10-05 16:41:22 ","resultcode":"0009"}

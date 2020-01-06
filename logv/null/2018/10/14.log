@@ -1,0 +1,4 @@
+Oct 14, 2018 10:48:44 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"SIM_HITUNG","jumlah":700000,"tenor":15,"counter":11988}
+Oct 14, 2018 10:48:44 PM modul.Logv run
+INFO: Thread-4 {"datetime":"2018-10-14 22:48:43 ","resultcode":"0009"}

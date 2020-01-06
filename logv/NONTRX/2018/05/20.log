@@ -1,0 +1,116 @@
+May 20, 2018 12:20:23 AM modul.Logv run
+SEVERE: Thread-8 {"com":"REGIST_BRW","nama":"tester","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"739322928225532","npwp":"94812319891077","email":"nasabah3@gmail.com","jum_tanggung":"3","norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411234123","telp_pribadi":"08122312343","foto":"tes-@jidulu2","passv":"123","counter":"18951"}
+May 20, 2018 12:20:23 AM modul.Logv run
+INFO: Thread-8 {"com":"REGIST_BRW","datetime":"2018-05-20 00:20:23 ","iduser":"PAB00012","resultcode":"0000","counter":"18951"}
+May 20, 2018 12:47:07 AM modul.Logv run
+SEVERE: Thread-12 {"com":"LOGIN_INV","idinv":"PAI00005","pass":"fa2bee5c72b973f9c46945955f7d2ec0","counter":"25358"}
+May 20, 2018 12:47:07 AM modul.Logv run
+INFO: Thread-12 {"com":"LOGIN_INV","idinv":"PAI00005","datetime":"2018-05-20 00:47:07 ","nama":"investku","resultcode":"0000","counter":"25358"}
+May 20, 2018 12:57:08 AM modul.Logv run
+SEVERE: Thread-16 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"677a5a068205cc17af522248613dcb58","counter":"64275"}
+May 20, 2018 12:57:08 AM modul.Logv run
+INFO: Thread-16 {"com":"LOGIN_BRW","datetime":"2018-05-20 00:57:08 ","nama":"tester","idbrw":"PAB00005","resultcode":"0000","counter":"64275"}
+May 20, 2018 1:10:37 AM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"c810def7c2cca2fb82f2278d5395d23a","counter":97247}
+May 20, 2018 1:10:37 AM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 01:10:37 ","resultcode":"0003","counter":null}
+May 20, 2018 1:14:20 AM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"58d6ee6cf6e24dd91b558aabc444274e","counter":50492}
+May 20, 2018 1:14:20 AM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 01:14:20 ","resultcode":"0003","counter":0}
+May 20, 2018 1:19:34 AM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"37ee793e29ceae91c45a831b975573ea","counter":71866}
+May 20, 2018 1:19:34 AM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 01:19:34 ","resultcode":"0003","counter":null}
+May 20, 2018 1:19:45 AM modul.Logv run
+SEVERE: Thread-8 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"d6bafe5e8d7f8d142f606cccd84c2e63","counter":"18033"}
+May 20, 2018 1:19:45 AM modul.Logv run
+INFO: Thread-8 {"com":"LOGIN_BRW","datetime":"2018-05-20 01:19:45 ","nama":"tester","idbrw":"PAB00005","resultcode":"0000","counter":"18033"}
+May 20, 2018 1:26:05 PM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"fb89c506a8c7df6a81a5922d1059ccc6","counter":"52852"}
+May 20, 2018 1:26:06 PM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 13:26:05 ","nama":"tester","idbrw":"PAB00005","resultcode":"0000","counter":"52852"}
+May 20, 2018 1:32:00 PM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"335159f8a3ecd441c37fb20c5a1d628f","counter":57554}
+May 20, 2018 1:32:00 PM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 13:32:00 ","resultcode":"0003","counter":"0"}
+May 20, 2018 1:35:01 PM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"e7d2b8bb78dc459259a2dc73ef0302e0","counter":76980}
+May 20, 2018 1:35:01 PM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 13:35:00 ","resultcode":"0003","counter":"0"}
+May 20, 2018 1:40:50 PM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"522aadd193bdff47385725cd7d7180a7","counter":72015}
+May 20, 2018 1:40:50 PM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 13:40:50 ","nama":"tester","idbrw":"PAB00005","resultcode":"0000","counter":"72015"}
+May 20, 2018 1:43:15 PM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"e9151a4e77a5d4dadf598ddf8249b628","counter":39355}
+May 20, 2018 1:43:15 PM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 13:43:15 ","nama":"tester","idbrw":"PAB00005","resultcode":"0000","counter":39355}
+May 20, 2018 1:47:33 PM modul.Logv run
+SEVERE: Thread-4 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"aee81431edb16570a69b50ecfc3e204a","counter":60581}
+May 20, 2018 1:47:33 PM modul.Logv run
+INFO: Thread-4 {"com":"LOGIN_BRW","datetime":"2018-05-20 13:47:33 ","nama":"tester","idbrw":"PAB00005","resultcode":"0000","counter":60581}
+May 20, 2018 8:17:25 PM modul.Logv run
+SEVERE: Thread-4 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332234","npwp":"948123198910","email":"t0s70@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto":"tes\/jidulu","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":51978}
+May 20, 2018 8:17:25 PM modul.Logv run
+INFO: Thread-4 {"resulcode":"0001","result":"Data User Sudah Ada","com":"REGIST_INV","datetime":"2018-05-20 20:17:25 ","counter":51978}
+May 20, 2018 8:17:58 PM modul.Logv run
+SEVERE: Thread-8 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332234","npwp":"948123198910","email":"t0s70@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto":"tes\/jidulu","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":55057}
+May 20, 2018 8:17:58 PM modul.Logv run
+INFO: Thread-8 {"resulcode":"0000","com":"REGIST_INV","datetime":"2018-05-20 20:17:58 ","iduser":"PAI00001","counter":55057}
+May 20, 2018 8:43:20 PM modul.Logv run
+SEVERE: Thread-4 {"com":"REGIST_BRW","nama":"tester","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"739322928225532","npwp":"94812319891077","email":"nasabah3@gmail.com","jum_tanggung":"3","norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411234123","telp_pribadi":"08122312343","jum_pinjam":1500000,"durasi":100,"tipe":1,"alasan":"biaya sekolah saudara","foto":"tes-@jidulu2","passv":"123","counter":79375}
+May 20, 2018 8:43:20 PM modul.Logv run
+INFO: Thread-4 {"com":"REGIST_BRW","datetime":"2018-05-20 20:43:19 ","iduser":"PAB00001","resultcode":"0000","counter":79375}
+May 20, 2018 9:07:00 PM modul.Logv run
+SEVERE: Thread-8 {"com":"REGIST_BRW","nama":"tester","alamat":"Jl. Juanda","provinsi":"sulteng","kota":"palu","kecamatan":"besusu","kelurahan":"besusu timur","tempat_lahir":"maluku","tgl_lahir":"1980-03-07","ktp":"739322928225123","npwp":"94812319891077","email":"nasabah9@gmail.com","jum_tanggung":"3","norek":"3423232342","nama_rek":"cobaers","bank":"Danamon","kantor":"PT. HDI","alamat_kantor":"Jl. Samrat","telp_kantor":"0411234123","telp_pribadi":"08122312343","jum_pinjam":1500000,"durasi":100,"tipe":1,"alasan":"biaya sekolah saudara","foto":"tes-@jidulu2","passv":"123","counter":75250}
+May 20, 2018 9:07:00 PM modul.Logv run
+INFO: Thread-8 {"com":"REGIST_BRW","datetime":"2018-05-20 21:07:00 ","iduser":"PAB00002","resultcode":"0000","counter":75250}
+May 20, 2018 9:07:37 PM modul.Logv run
+SEVERE: Thread-12 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332234","npwp":"948123198910","email":"t0s70@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto":"tes\/jidulu","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":24232}
+May 20, 2018 9:07:37 PM modul.Logv run
+INFO: Thread-12 {"resulcode":"0000","com":"REGIST_INV","datetime":"2018-05-20 21:07:37 ","iduser":"PAI00001","counter":24232}
+May 20, 2018 9:10:50 PM modul.Logv run
+SEVERE: Thread-4 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332234","npwp":"948123198910","email":"t0s70@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto":"tes\/jidulu","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":66821}
+May 20, 2018 9:10:50 PM modul.Logv run
+INFO: Thread-4 {"resulcode":"0000","com":"REGIST_INV","datetime":"2018-05-20 21:10:50 ","counter":66821}
+May 20, 2018 9:11:12 PM modul.Logv run
+SEVERE: Thread-8 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332234","npwp":"948123198910","email":"t0s70@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto":"tes\/jidulu","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":34175}
+May 20, 2018 9:11:12 PM modul.Logv run
+INFO: Thread-8 {"resulcode":"0001","result":"Data User Sudah Ada","com":"REGIST_INV","datetime":"2018-05-20 21:11:12 ","counter":34175}
+May 20, 2018 9:12:24 PM modul.Logv run
+SEVERE: Thread-12 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332555","npwp":"948123198910","email":"t0s73@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto":"tes\/jidulu","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":19939}
+May 20, 2018 9:12:24 PM modul.Logv run
+INFO: Thread-12 {"resulcode":"0000","com":"REGIST_INV","datetime":"2018-05-20 21:12:24 ","counter":19939}
+May 20, 2018 9:12:43 PM modul.Logv run
+SEVERE: Thread-16 {"com":"REGIST_INV","nama":"investku","ktp":"72545345332553","npwp":"948123198910","email":"t0s77@gmail.com","telp_pribadi":"0451324323","sumber":"majalah","kantor":"PT PINJAM AJA","alamat_kantor":"jl. tes ji","telp_kantor":"0411234322","norek":"248758398","atas_nama":"john","bank":"Mandiri","foto":"tes\/jidulu","from_rr":3100000,"to_rr":10000000,"jum_inv":20000000,"durasi":360,"pass":"123","counter":94927}
+May 20, 2018 9:12:43 PM modul.Logv run
+INFO: Thread-16 {"resulcode":"0000","com":"REGIST_INV","datetime":"2018-05-20 21:12:43 ","counter":94927}
+May 20, 2018 9:28:15 PM modul.Logv run
+SEVERE: Thread-4 {"com":"ACC_INV","idinv":"2","pass":"6138307dd8dcc62c4a5ebbf0e68983c6","counter":72240}
+May 20, 2018 9:28:15 PM modul.Logv run
+INFO: Thread-4 {"com":"ACC_INV","idinv":"PAI00001","datetime":"2018-05-20 21:28:15 ","resultcode":"0000","counter":72240}
+May 20, 2018 9:29:00 PM modul.Logv run
+SEVERE: Thread-8 {"com":"ACC_INV","idinv":"1","pass":"1028fc9168cdb280529d08bf7530b976","counter":35795}
+May 20, 2018 9:29:00 PM modul.Logv run
+INFO: Thread-8 {"com":"ACC_INV","idinv":"PAI00002","datetime":"2018-05-20 21:29:00 ","resultcode":"0000","counter":35795}
+May 20, 2018 9:30:34 PM modul.Logv run
+SEVERE: Thread-12 {"com":"LOGIN_INV","idinv":"PAI00002","pass":"8af3abce2655dd1d678e47963393c912","counter":11884}
+May 20, 2018 9:30:34 PM modul.Logv run
+INFO: Thread-12 {"com":"LOGIN_INV","idinv":"PAI00002","datetime":"2018-05-20 21:30:34 ","nama":"investku","resultcode":"0000","counter":"11884"}
+May 20, 2018 9:31:19 PM modul.Logv run
+SEVERE: Thread-16 {"com":"LOGIN_INV","idinv":"PAI00008","pass":"1a06c27d9e82b2f3416faab1bd1a30bb","counter":82317}
+May 20, 2018 9:31:19 PM modul.Logv run
+INFO: Thread-16 {"com":"LOGIN_INV","datetime":"2018-05-20 21:31:19 ","resultcode":"0003"}
+May 20, 2018 9:33:03 PM modul.Logv run
+SEVERE: Thread-20 {"com":"LOGIN_INV","idinv":"PAI00002","pass":"8eb279107a6e5d03fb1021fc29177fb8","counter":82452}
+May 20, 2018 9:33:03 PM modul.Logv run
+INFO: Thread-20 {"com":"LOGIN_INV","idinv":"PAI00002","datetime":"2018-05-20 21:33:03 ","nama":"investku","resultcode":"0000","counter":"82452"}
+May 20, 2018 9:33:21 PM modul.Logv run
+SEVERE: Thread-24 {"com":"LOGIN_BRW","idbrw":"PAB00005","pass":"5ea423c3e6716727e700de03d050ede0","counter":84465}
+May 20, 2018 9:33:21 PM modul.Logv run
+INFO: Thread-24 {"com":"LOGIN_BRW","datetime":"2018-05-20 21:33:21 ","resultcode":"0003","counter":84465}
+May 20, 2018 9:33:45 PM modul.Logv run
+SEVERE: Thread-28 {"com":"LOGIN_BRW","idbrw":"PAB00002","pass":"7ff5484c416343650ca20fb16890a6a7","counter":25924}
+May 20, 2018 9:33:45 PM modul.Logv run
+INFO: Thread-28 {"com":"LOGIN_BRW","datetime":"2018-05-20 21:33:45 ","nama":"tester","idbrw":"PAB00002","resultcode":"0000","counter":25924}
