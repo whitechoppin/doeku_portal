@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="charsets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/charsets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/commons-beanutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/commons-collections4-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/commons-logging-api-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/deploy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/DynamicJasper-5.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/itext-2.1.7.js4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/jasperreports-6.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/jasperreports-javaflow.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/javaws.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/javax.mail-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/jce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/jfr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/jfxswt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/jsse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/doeku_portal/dist/lib/slf4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

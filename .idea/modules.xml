@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/doeku_portal.iml" filepath="$PROJECT_DIR$/.idea/doeku_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doeku_portal.iml" filepath="$PROJECT_DIR$/doeku_portal.iml" />
     </modules>
   </component>
 </project>
