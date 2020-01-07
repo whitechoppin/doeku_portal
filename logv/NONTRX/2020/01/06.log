@@ -1,0 +1,4 @@
+Jan 06, 2020 3:45:50 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"EMAIL_CONF","pos":"PAB","kode":"BFGNMO","counter":92119}
+Jan 06, 2020 3:45:50 PM modul.Logv run
+INFO: Thread-4 {"result":"Data Tidak Ditemukan","com":"EMAIL_CONF","datetime":"2020-01-06 15:45:48 ","resultcode":"0001","counter":92119}

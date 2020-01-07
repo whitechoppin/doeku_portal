@@ -2,149 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c1ea7ed-454c-4573-b56f-789e44756562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/charsets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Emailer/Em_End_Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Emailer/Em_IDN_ACC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Emailer/Em_Notif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Emailer/Em_Notif_Reset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Emailer/Em_Verify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auto_dana/AUTO_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auto_dana/GET_AUTO_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auto_dana/Json_AUTO_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auto_dana/Json_GET_AUTO_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auto_dana/Json_STOP_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auto_dana/STOP_AUTO_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/JSON_lIST_faq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_ACC_IDN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_ACC_IDN_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_ACC_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_CEK_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_CEK_IDN_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_CEK_IDN_P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_CEK_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_CEK_PRE_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_DENDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Days_Left.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_EXEC_NUMB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_EXEC_V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Email_Verify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_HIST_DRAW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_HIST_PAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_HIST_TOPUP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_LIST_ACC_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_LIST_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_LOG_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Login_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Login_IDN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_PINJAM_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_PULL_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_REQ_V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Rec_Loc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Regist_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Regist_IDN_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Regist_IDN_P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Reject_R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Reset_Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Reset_Pass_V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Sim_Hitung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Ubah_Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Update_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_VERIFY_NUMB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_VERIFY_PAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_Verify_Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Json_count_rate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsoner/Jsonerv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Gateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/BNI_Regist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/CekMitraDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Cek_Utama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Daftar_BRW_NOVA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Daftar_IDN_NOVA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Em_Pass_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Em_Reset_Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Exser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/GetDetailDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Konf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/LoginDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Logv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Notif_Req.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/RegisDPAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Regist_Digisign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/ResultTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/Smser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/TopUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/TopUpDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modul/insert_mitra_baru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/ACC_IDN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/ACC_IDN_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/ACC_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/CEK_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/CEK_IDN_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/CEK_IDN_P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/CEK_MITRA_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/CEK_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/CEK_PRE_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/CONF_V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/COUNT_RATE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/DAYS_LEFT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/EMAIL_CONF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/EXEC_V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/EXEC_VERIFY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/HIST_CAIR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/HIST_PAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/HIST_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/HIST_TOPUP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/INSERT_ID_AGEN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/INSERT_MITRA_BARU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/LIST_ACC_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/LIST_FAQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/LIST_PINJAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/LOGIN_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/LOGIN_IDN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/LOG_RENT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REC_LOC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REGISTRASI_DAVESTPAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REGIST_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REGIST_BRW_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REGIST_IDN_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REGIST_IDN_P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REJECT_R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REPORT_PEMINJAM_PENDANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REPORT_PENDANA_PENYELENGGARA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REQ_V.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/REQ_VERIFY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/RESET_PASS_CONF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/RESET_PASV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/SIM_HITUNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/UBAH_PASV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nontrx/UPDATE_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports/PERJANJIAN LAYANAN PINJAMAN UANG BERBASIS TEKNOLOGI.jasper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports/PERJANJIAN LAYANAN PINJAMAN UANG BERBASIS TEKNOLOGI.jrxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports/Perjanjian antara Pendana dan Penyelenggara revisi).jrxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports/ReportDoeku1.jasper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports/ReportDoeku1.jrxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports/ReportDoeku2.jasper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports/ReportDoeku2.jrxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/ACC_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/CEK_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/DEL_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/DETAIL_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/END_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/Json_ACC_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/Json_CEK_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/Json_DET_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/Json_END_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/Json_RESP_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/Json_Reject_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/support/RESP_MSG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trx/DENDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trx/PINJAM_ACC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trx/PINJAM_BRW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trx/PULL_DANA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trx/VERIFY_PAY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/doeku_portal.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -158,30 +15,74 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/auto_dana/AUTO_DANA.java">
+        <entry file="file://$PROJECT_DIR$/src/main/Gateway.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="25" column="77" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
+            <state relative-caret-position="390">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/modul/Cek_Utama.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="120" column="42" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12229#12230#0" expanded="true" />
+                <element signature="e#12257#12258#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/modul/Exser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trx/DENDA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/trx/PULL_DANA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Gateway.java">
+        <entry file="file://$PROJECT_DIR$/src/trx/PINJAM_ACC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Downloads/Telegram Desktop/NONGateway (2).java">
+        <entry file="file://$PROJECT_DIR$/src/nontrx/END_MSG.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" selection-start-line="16" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="135">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -195,6 +96,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/Gateway.java" />
+        <option value="$PROJECT_DIR$/src/support/Json_END_MSG.java" />
       </list>
     </option>
   </component>
@@ -208,6 +110,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,12 +124,16 @@
               <item name="doeku_portal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="doeku_portal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doeku_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="trx" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,45 +197,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578284610347</updated>
-      <workItem from="1578284611876" duration="398000" />
+      <workItem from="1578284611876" duration="5329000" />
+      <workItem from="1578306223082" duration="353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="398000" />
+    <option name="totallyTimeSpent" value="5682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3296875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,10 +258,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/support/Json_END_MSG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsoner/Json_ACC_IDN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jsoner/Json_ACC_PINJAM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/support/ACC_MSG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/support/DEL_MSG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trx/PINJAM_BRW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="80" column="13" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modul/Konf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Gateway.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+        <state relative-caret-position="390">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modul/Cek_Utama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="120" column="42" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12229#12230#0" expanded="true" />
+            <element signature="e#12257#12258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modul/Exser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trx/DENDA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trx/PULL_DANA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nontrx/END_MSG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="170" column="22" selection-start-line="170" selection-start-column="22" selection-end-line="170" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trx/PINJAM_ACC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
         </state>
       </provider>
     </entry>
