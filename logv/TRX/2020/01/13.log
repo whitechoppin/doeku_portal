@@ -1,0 +1,8 @@
+Jan 13, 2020 11:27:59 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-31 {"com":"PINJAM_BRW","id_brw":"PAB00522","nova":"1722212399336893","jumlah":1000000,"tenor":90,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Jan 13, 2020 11:27:59 AM modul.Logv run
+INFO: Thread-31 {}
+Jan 13, 2020 11:39:18 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-35 {"com":"PINJAM_BRW","id_brw":"PAB00522","nova":"1722212399336893","jumlah":1000000,"tenor":90,"tipe":1,"rekam_suara":"suaraku","rekam_diri":"diriku","rekam_loc":"locku","counter":72929}
+Jan 13, 2020 11:39:18 AM modul.Logv run
+INFO: Thread-35 {"status_registrasi":null,"com":"PINJAM_BRW","datetime":"2020-01-13 11:39:15 ","jumlah":1000000,"id_brw":"PAB00522","resultcode":"0000","counter":72929,"message_registrasi":null}

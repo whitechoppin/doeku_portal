@@ -11,7 +11,11 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 import modul.Konf;
+import modul.Regist_Digisign;
 import org.json.simple.JSONObject;
 
 /**
@@ -19,7 +23,7 @@ import org.json.simple.JSONObject;
  * @author VINCENT
  */
 public class REGIST_IDN_I extends Konf{
-    public String hasilx,ans;
+    public String hasilx,noid,ans;
     
     public String[] katv;
     public JSONObject jo = new JSONObject();
@@ -39,7 +43,7 @@ public class REGIST_IDN_I extends Konf{
         try{
             //Class.forName("com.mysql.jdbc.Driver");
             con = DriverManager.getConnection(DB_URL,DB_USER,DB_PASSWORD);
-            statv = con.prepareCall("{ call REGIST_IDN_I(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) }");
+            statv = con.prepareCall("{ call REGIST_IDN_I(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) }");
             statv.setString(1,getnama);
             statv.setString(2,getEmail);
             statv.setString(3,tgllahir);
@@ -67,6 +71,7 @@ public class REGIST_IDN_I extends Konf{
             rs = statv.executeQuery();
             
             hasilx = statv.getString("stat");
+            noid = statv.getString("idagen");
             
             statv.close();
             con.close();
@@ -84,7 +89,18 @@ public class REGIST_IDN_I extends Konf{
             jo.put("datetime",dateString);
             jo.put("com","REGIST_IDN_I");
             jo.put("counter",Integer.parseInt(getcounter));
-            
+
+            CEK_IDN_I cp = new CEK_IDN_I(noid,"773752");
+            String emailku = cp.getEmail();
+            String telpku = cp.getTelp();
+
+            Regist_Digisign rd = new Regist_Digisign();
+            try {
+                rd.sendPeminjam(getnama,emailku,telpku,kpos,ktp,getalamat,prov,kota,camat,lurah,"Pria",tgllahir,tgllahir,"");
+            } catch (Exception ex) {
+                Logger.getLogger(REGIST_IDN_I.class.getName()).log(Level.SEVERE, null, ex);
+            }
+
         }else if(hasilx.equalsIgnoreCase("2")){
             jo.put("resultcode","0001");
             jo.put("result","Data User Sudah Ada");

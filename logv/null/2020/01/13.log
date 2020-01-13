@@ -1,0 +1,28 @@
+Jan 13, 2020 11:04:23 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-3 null
+Jan 13, 2020 11:04:23 AM modul.Logv run
+INFO: Thread-3 {"datetime":"2020-01-13 11:04:22 ","resultcode":"0009"}
+Jan 13, 2020 11:12:17 AM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"REGIST_BRW","nama":"Orang 1","alamat":"alamat 1","provinsi":"Sulawesi Selatan","kota":"Makassar","kecamatan":"Makassar","kelurahan":"Barana","tempat_lahir":"Makassar","tgl_lahir":"17092017","ktp":"5239578923755429","npwp":"28478394853","email":"alexander@mailsac.com","jum_tanggung":3,"telp_pribadi":"123456789011","telp_rumah":"123456789011","kodepos_pribadi":"89075","nikah":"1","kode_pos":"57891","jenkel":"1","pass":"A1234567b","imei":"88888888888888","referal":"123456","counter":74649}
+Jan 13, 2020 11:12:17 AM modul.Logv run
+INFO: Thread-4 {"datetime":"2020-01-13 11:12:12 ","resultcode":"0009"}
+Jan 13, 2020 12:40:04 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-39 {"com":"REGIST_IDN_I","nama":"PT. Apple Digital Indonesia","alamat":"Jln. A.Petterani","ktp":"12345678901011","email":"gaul@gmail.com","telp_pribadi":"0811345793","sumber":"majalah","norek":"1234567890","nama_rek":"Apple","bank":"Bimoli","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","kode_pos":"97531","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","pass":"A1234567b","sumber_dana":"orang tua","counter":77788}
+Jan 13, 2020 12:40:04 PM modul.Logv run
+INFO: Thread-39 {"datetime":"2020-01-13 12:40:04 ","resultcode":"0009"}
+Jan 13, 2020 12:41:16 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-43 {"com":"REGIST_IDN_I","nama":"PT. Apple Digital Indonesia","alamat":"Jln. A.Petterani","ktp":"12345678901011","email":"gaul@gmail.com","telp_pribadi":"0811345793","sumber":"majalah","norek":"1234567890","nama_rek":"Apple","bank":"Bimoli","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","kode_pos":"97531","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","pass":"A1234567b","sumber_dana":"orang tua","counter":77788}
+Jan 13, 2020 12:41:16 PM modul.Logv run
+INFO: Thread-43 {"datetime":"2020-01-13 12:41:15 ","resultcode":"0009"}
+Jan 13, 2020 12:43:21 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-47 {"com":"REGIST_IDN_I","nama":"PT. Apple Digital Indonesia","alamat":"Jln. A.Petterani","ktp":"12345678901011","email":"gaul@gmail.com","telp_pribadi":"0811345793","sumber":"majalah","norek":"1234567890","nama_rek":"Apple","bank":"Bimoli","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","kode_pos":"97531","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","pass":"A1234567b","sumber_dana":"orang tua","counter":77788}
+Jan 13, 2020 12:43:21 PM modul.Logv run
+INFO: Thread-47 {"datetime":"2020-01-13 12:43:20 ","resultcode":"0009"}
+Jan 13, 2020 12:43:24 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-51 {"com":"REGIST_IDN_I","nama":"PT. Apple Digital Indonesia","alamat":"Jln. A.Petterani","ktp":"12345678901011","email":"gaul@gmail.com","telp_pribadi":"0811345793","sumber":"majalah","norek":"1234567890","nama_rek":"Apple","bank":"Bimoli","foto_diri":"tes_diri","foto_ktp":"tes_ktp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","kode_pos":"97531","tgl_lahir":"1990-07-07","kota_lahir":"Makassar","pass":"A1234567b","sumber_dana":"orang tua","counter":77788}
+Jan 13, 2020 12:43:24 PM modul.Logv run
+INFO: Thread-51 {"datetime":"2020-01-13 12:43:23 ","resultcode":"0009"}
+Jan 13, 2020 1:02:26 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-21 {"com":"REGIST_IDN_P","nama":"PT. Apple Corporation","alamat":"jl. tes","email":"vtrez00@gmail.com","telp_pribadi":"081357890001","telp_kantor":"041123767","sumber":"majalah","norek":"248758398","nama_rek":"john","bank":"Mandiri","foto_siup":"tes_siup","foto_tdp":"tes_tdp","foto_npwp":"tes_npwp","provinsi":"coba prov","kota":"coba kota","kecamatan":"coba camat","kelurahan":"coba lurah","foto_sk":"tes_sk","foto_akta":"tes_akta","sumber_dana":"kantor","negara":"Indonesia","kode_pos":"78531","pass":"A1234567b","counter":51434}
+Jan 13, 2020 1:02:26 PM modul.Logv run
+INFO: Thread-21 {"datetime":"2020-01-13 13:02:25 ","resultcode":"0009"}

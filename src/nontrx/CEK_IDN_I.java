@@ -134,4 +134,12 @@ public class CEK_IDN_I extends Konf{
     public String getAns () {
         return ans;
     }
+
+    public String getTelp () {
+        return getTelp_p;
+    }
+
+    public String getEmail() {
+        return getemail;
+    }
 }
