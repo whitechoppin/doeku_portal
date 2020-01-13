@@ -20,7 +20,7 @@ public class CEK_BRW extends Konf{
     public String hasilx,ans,ctrku,lengkap,getsexv;
     public String idx,getnama,getalamat,getprov,getkota,getcamat,getlurah,getprov_k,getkota_k,getcamat_k,getlurah_k,
     gettempat,getlahir,getktp,getnpwp,getemail,getjumlah,getnorek,getnarek,getbank,getkantor,getAlamat_k,stat_user,
-    getTelp_k,getTelp_p,gettelp_d,gettelp_r,dapat,nama_d,alamat_d,nikah,st_usaha,hub_d,tgl_masuk,getnova,gettrx;
+    getTelp_k,getTelp_p,gettelp_d,gettelp_r,dapat,nama_d,alamat_d,nikah,st_usaha,hub_d,tgl_masuk,getnova,gettrx,activeUser;
     public int limit,minimal;
     
     public String[] katv;
@@ -38,7 +38,7 @@ public class CEK_BRW extends Konf{
         try{
             //Class.forName("com.mysql.jdbc.Driver");
             con = DriverManager.getConnection(DB_URL,DB_USER,DB_PASSWORD);
-            statv = con.prepareCall("{ call CEK_BRW(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)}");
+            statv = con.prepareCall("{ call CEK_BRW(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)}");
             
             statv.setString(1,idku);
             
@@ -86,7 +86,8 @@ public class CEK_BRW extends Konf{
             stat_user = statv.getString("stat_user");
             getsexv = statv.getString("jniskel");
             stat_user = statv.getString("stat_user");
-
+            activeUser = statv.getString("active_user");
+            
             if(gettrx==null) {
                 gettrx="Tidak Ada";
             }
@@ -94,6 +95,8 @@ public class CEK_BRW extends Konf{
             
             statv.close();
             con.close();
+            
+            System.out.println("Stat User :"+hasilx);
             
         }catch(Exception ex){
              ex.printStackTrace();
@@ -155,7 +158,13 @@ public class CEK_BRW extends Konf{
             jo.put("datetime",dateString);
             jo.put("com","CEK_BRW");
             jo.put("counter",Integer.parseInt(ctrku));
-            
+        }else if(hasilx.equalsIgnoreCase("3")){
+            jo.put("resultcode","0000");
+            jo.put("stat_user", stat_user);
+            jo.put("result","User tidak active");
+            jo.put("datetime",dateString);
+            jo.put("com","CEK_BRW");
+            jo.put("counter",Integer.parseInt(ctrku));
         }else{
             jo.put("resultcode","0002");
             jo.put("datetime",dateString);

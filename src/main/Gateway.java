@@ -5,26 +5,9 @@ package main;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.security.KeyManagementException;
-import java.security.KeyStore;
-import java.security.KeyStoreException;
-import java.security.NoSuchAlgorithmException;
-import java.security.UnrecoverableKeyException;
-import java.security.cert.CertificateException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.net.ssl.KeyManager;
-import javax.net.ssl.KeyManagerFactory;
-import javax.net.ssl.SSLContext;
-import javax.net.ssl.SSLServerSocket;
-import javax.net.ssl.SSLServerSocketFactory;
-import javax.net.ssl.SSLSocket;
-import javax.net.ssl.TrustManager;
-import javax.net.ssl.TrustManagerFactory;
 import modul.Exser;
 
 /**
@@ -34,7 +17,7 @@ import modul.Exser;
 public class Gateway {
 
     public static void main(String[] args) {
-        int port = 37773;
+        int port = 37779;
         ServerSocket listenSock;
 
         try {

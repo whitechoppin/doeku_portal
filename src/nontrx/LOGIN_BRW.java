@@ -27,6 +27,9 @@ import sun.security.provider.MD5;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import static modul.Konf.DB_PASSWORD;
+import static modul.Konf.DB_URL;
+import static modul.Konf.DB_USER;
 
 /**
  *
@@ -142,6 +145,14 @@ public class LOGIN_BRW extends Konf{
                 jo.put("datetime",dateString);
                 jo.put("counter",Integer.parseInt(cntrv));
                 jo.put("com","LOGIN_BRW");
+                
+                ans = jo.toString();
+        }else if(hasilx.equalsIgnoreCase("0")) {
+                jo.put("resultcode", "0002");
+                jo.put("result", "Nomor Telepon / Email Belum Terdaftar");
+                jo.put("datetime", dateString);
+                jo.put("counter", Integer.parseInt(cntrv));
+                jo.put("com", "LOGIN_BRW");
                 
                 ans = jo.toString();
         }else{

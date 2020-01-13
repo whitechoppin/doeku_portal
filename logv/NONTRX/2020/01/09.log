@@ -1,0 +1,4 @@
+Jan 09, 2020 3:55:25 PM modul.Logv run
+SEVERE: IPv:/127.0.0.1Thread-4 {"com":"CEK_BRW","idbrw":"PAB00087","counter":79997}
+Jan 09, 2020 3:55:25 PM modul.Logv run
+INFO: Thread-4 {"stat_user":"2","result":"User tidak active","com":"CEK_BRW","datetime":"2020-01-09 15:55:23 ","resultcode":"0000","counter":79997}
