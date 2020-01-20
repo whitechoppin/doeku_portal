@@ -17,20 +17,33 @@ import org.json.simple.JSONObject;
  *
  * @author VINCENT
  */
+
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import modul.Konf;
+import nontrx.REGISTRASI_DAVESTPAY;
+import org.json.simple.JSONObject;
+
+/**
+ *
+ * @author VINCENT
+ */
 public class PINJAM_BRW extends Konf{
     public String hasilx,ans,cekAgen,resultCode,message,ctrku;
     public String namaAgen,alamatAgen,kelAgen,kecAgen,kotaAgen,provAgen,kodePos,telp,email,norek,namaBank,namaRek,sttRegis;
-    
+
     public String[] katv;
     public JSONObject jo = new JSONObject();
     public SimpleDateFormat  formats = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss ");
     public Date currentTime = new Date();
     public String dateString = formats.format(currentTime);
-    
+
     public SimpleDateFormat formats2 = new SimpleDateFormat("yyyy-MM-dd");
     public Date currentTime2 = new Date();
     public String dateString2= formats2.format(currentTime2);
-      
+
     public PINJAM_BRW(String getid,String getnova,String jum_pinjam,String durasi,String tp,String suara,String diri,String loc,String getctr) {
         try {
             con = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
@@ -54,13 +67,15 @@ public class PINJAM_BRW extends Konf{
             sttRegis = statv.getString("stat");
             ctrku = getctr;
 
+            System.out.println("Name :"+namaAgen);
+
             if(sttRegis.equalsIgnoreCase("1")) {
-                    REGISTRASI_DAVESTPAY registrasiDavestpay = new REGISTRASI_DAVESTPAY();
-                    String result = registrasiDavestpay.sendPost(namaAgen, alamatAgen, kelAgen, kecAgen, kotaAgen, provAgen, kodePos, telp, email, norek, namaBank, namaRek, getctr);
-                    String response = registrasiDavestpay.insertIDAgen(result, getid);
-                    String[] splitArr=response.split(",");
-                    resultCode = splitArr[0];
-                    message = splitArr[1];
+                REGISTRASI_DAVESTPAY registrasiDavestpay = new REGISTRASI_DAVESTPAY();
+                String result = registrasiDavestpay.sendPost(namaAgen, alamatAgen, kelAgen, kecAgen, kotaAgen, provAgen, kodePos, telp, email, norek, namaBank, namaRek, getctr);
+                String response = registrasiDavestpay.insertIDAgen(result, getid);
+                String[] splitArr=response.split(",");
+                resultCode = splitArr[0];
+                message = splitArr[1];
             }
 
         } catch (Exception e) {
@@ -72,7 +87,7 @@ public class PINJAM_BRW extends Konf{
             }
         }
 
-        if (sttRegis.equalsIgnoreCase("2") || resultCode == null) {
+        if (sttRegis.equals("2")) {
             try {
                 //Class.forName("com.mysql.jdbc.Driver");
                 con = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD);
@@ -100,7 +115,9 @@ public class PINJAM_BRW extends Konf{
             } finally {
                 try {
                     con.close();
-                } catch (SQLException ex) {
+                } catch (SQLException ex)
+                {
+
                 }
             }
 
@@ -139,8 +156,8 @@ public class PINJAM_BRW extends Konf{
             }
             ans = jo.toString();
             //System.out.println(ans);
-        } else if(resultCode.equals("0001 ")){
-            jo.put("resultcode", sttRegis);
+        } else{
+            jo.put("resultcode", "0002");
             jo.put("message_registrasi", message);
             jo.put("resultreg","FAILED REGISTER");
             jo.put("datetime", dateString);

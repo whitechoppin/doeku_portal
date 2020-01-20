@@ -22,11 +22,11 @@ import java.util.Date;
 import java.util.Properties;
 
 public class Em_Verify {
-        private static final String SMTP_SERVER = "mail.doeku.id";
-        private static final String USERNAME = "noreply@doeku.id";
-        private static final String PASSWORD = "hdi098098HDI";
+        private static final String SMTP_SERVER = "smtp.gmail.com";
+        private static final String USERNAME = "noreplydoeku@gmail.com";
+        private static final String PASSWORD = "Doeku123!";
 
-        private static final String EMAIL_FROM = "noreply@doeku.id";
+        private static final String EMAIL_FROM = "Doeku";
         
         private static final String EMAIL_TO_CC = "";
 
@@ -45,6 +45,7 @@ public class Em_Verify {
             prop.put("mail.smtp.host", SMTP_SERVER); //optional, defined in SMTPTransport
             prop.put("mail.smtp.auth", "true");
             prop.put("mail.smtp.port", "587"); // default
+            prop.put("mail.smtp.starttls.enable","true");
 
         EMAIL_TO = em; 
         String linkku = "https://doeku.id/email-confirmation/"+code+"/PAB";

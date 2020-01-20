@@ -27,9 +27,6 @@ import sun.security.provider.MD5;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import static modul.Konf.DB_PASSWORD;
-import static modul.Konf.DB_URL;
-import static modul.Konf.DB_USER;
 
 /**
  *
@@ -40,28 +37,28 @@ public class LOGIN_BRW extends Konf{
     public JSONObject jo=new JSONObject();
     public String[] katv;
     public List<String> list = new ArrayList<String>();
-    
+
     public SimpleDateFormat formats = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss ");
     public Date currentTime = new Date();
     public String dateString = formats.format(currentTime);
-    
+
     public SimpleDateFormat formats2 = new SimpleDateFormat("yyyy-MM-dd");
     public Date currentTime2 = new Date();
     public String dateString2 = formats2.format(currentTime2);
-    
+
     public SimpleDateFormat formats3 = new SimpleDateFormat("HH:mm:ss ");
     public Date currentTime3 = new Date();
     public String dateString3 = formats3.format(currentTime3);
-      
+
     public LOGIN_BRW(String idv,String pass,String passMD,String code,String ipku,String cntrv) {
-        
+
         try{
             //System.out.println("Trying connect to database "+DB_URL);
             //Class.forName("com.mysql.jdbc.Driver");
             con = DriverManager.getConnection(DB_URL,DB_USER,DB_PASSWORD);
 
             //System.out.println("Success connect to database");
-            
+
             statv = con.prepareCall("{call LOGIN_BRW(?,?,?,?,?,?,?,?,?,?) }");
             statv.setString(1, idv);
             statv.setString(2, pass);
@@ -72,9 +69,9 @@ public class LOGIN_BRW extends Konf{
             statv.setString(7, dateString3);
             /*statv.registerOutParameter(4, java.sql.Types.VARCHAR);
             statv.registerOutParameter(5, java.sql.Types.VARCHAR);*/
-            
+
             statv.execute();
-            
+
             hasilx = statv.getString("stat");
             namax = statv.getString("namaz");
             idku = statv.getString("idku");
@@ -117,75 +114,83 @@ public class LOGIN_BRW extends Konf{
                     }
                 }
             }
-            
+
             statv.close();
             con.close();
-            
+
         }catch(Exception ex){
-             ex.printStackTrace();
+            ex.printStackTrace();
         }finally{
             try {
-              con.close();
+                con.close();
             } catch (SQLException ex) {}
         }
-        
+
         if(hasilx.equalsIgnoreCase("1")) {
-                jo.put("resultcode","0000");
-                jo.put("datetime",dateString);
-                jo.put("com","LOGIN_BRW");
-                jo.put("idbrw",idku);
-                jo.put("nama",namax);
-                jo.put("stat_user",stt);
-                jo.put("counter",Integer.parseInt(cntrv));
-                
-                ans = jo.toString();
+            jo.put("resultcode","0000");
+            jo.put("datetime",dateString);
+            jo.put("com","LOGIN_BRW");
+            jo.put("idbrw",idku);
+            jo.put("nama",namax);
+            jo.put("stat_user",stt);
+            jo.put("counter",Integer.parseInt(cntrv));
+
+            ans = jo.toString();
         }else if(hasilx.equalsIgnoreCase("2")) {
-                jo.put("resultcode","0001");
-                jo.put("result","Akun Anda Telah Di Non-Aktifkan");
-                jo.put("datetime",dateString);
-                jo.put("counter",Integer.parseInt(cntrv));
-                jo.put("com","LOGIN_BRW");
-                
-                ans = jo.toString();
+            jo.put("resultcode","0001");
+            jo.put("result","Akun Anda Telah Di Non-Aktifkan");
+            jo.put("datetime",dateString);
+            jo.put("counter",Integer.parseInt(cntrv));
+            jo.put("com","LOGIN_BRW");
+
+            ans = jo.toString();
         }else if(hasilx.equalsIgnoreCase("0")) {
-                jo.put("resultcode", "0002");
-                jo.put("result", "Nomor Telepon / Email Belum Terdaftar");
-                jo.put("datetime", dateString);
-                jo.put("counter", Integer.parseInt(cntrv));
-                jo.put("com", "LOGIN_BRW");
-                
-                ans = jo.toString();
+            jo.put("resultcode", "0002");
+            jo.put("result", "Nomor Telepon atau Email Belum Terdaftar");
+            jo.put("datetime", dateString);
+            jo.put("counter", Integer.parseInt(cntrv));
+            jo.put("com", "LOGIN_BRW");
+
+            ans = jo.toString();
+        }else if(hasilx.equalsIgnoreCase("3")){
+            jo.put("resultcode","0004");
+            jo.put("result", "Akun belum diaktifkan");
+            jo.put("datetime",dateString);
+            jo.put("counter",Integer.parseInt(cntrv));
+            jo.put("com","LOGIN_BRW");
+
+            ans = jo.toString();
         }else{
-                jo.put("resultcode","0003");
-                jo.put("datetime",dateString);
-                jo.put("counter",Integer.parseInt(cntrv));
-                jo.put("com","LOGIN_BRW");
-                
-                ans = jo.toString();
-        }  
+            jo.put("resultcode","0003");
+            jo.put("datetime",dateString);
+            jo.put("counter",Integer.parseInt(cntrv));
+            jo.put("com","LOGIN_BRW");
+
+            ans = jo.toString();
+        }
     }
-    
+
     public String getAns () {
         return ans;
     }
-    
+
     public String getResp() {
         return hasilx;
     }
 
     public String md5(String password) throws Exception
     {
-            String digest = null;
-            MessageDigest md = MessageDigest.getInstance("MD5");
-            byte[] hash = md.digest(password.getBytes("UTF-8"));
+        String digest = null;
+        MessageDigest md = MessageDigest.getInstance("MD5");
+        byte[] hash = md.digest(password.getBytes("UTF-8"));
 
-            //converting byte array to Hexadecimal String
-            StringBuilder sb = new StringBuilder(2*hash.length);
-            for(byte b : hash)
-            {
-                sb.append(String.format("%02x", b&0xff));
-            }
-            digest = sb.toString();
-            return digest;
+        //converting byte array to Hexadecimal String
+        StringBuilder sb = new StringBuilder(2*hash.length);
+        for(byte b : hash)
+        {
+            sb.append(String.format("%02x", b&0xff));
+        }
+        digest = sb.toString();
+        return digest;
     }
 }

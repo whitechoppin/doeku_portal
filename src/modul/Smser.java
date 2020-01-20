@@ -41,7 +41,7 @@ public class Smser {
 		String a = "hD!4dM1n"+num;
                 String b = ubahMD5(a);
                 //String urlParameters = "<?xml version='1.0'?><posh><command>KIRIMSMS</command><counter>"+num+"</counter><password>"+b+"</password><idproduk>HDISYS</idproduk><notelp>"+nomor+"</notelp><isisms>"+kode+"</isisms></posh>";
-                String urlParameters = "<?xml version='1.0'?><posh><command>KIRIMSMS</command><counter>"+num+"</counter><password>"+b+"</password><idproduk>HDISYS</idproduk><notelp>"+nomor+"</notelp><isisms>Kode DoeKu "+kode+" Silahkan Masukkan Segera Kode Anda.</isisms></posh>";
+                String urlParameters = "<?xml version='1.0'?><posh><command>KIRIMSMS</command><counter>"+num+"</counter><password>"+b+"</password><idproduk>HDISYS</idproduk><notelp>"+nomor+"</notelp><isisms>"+kode+" adalah Kode Verifikasi DOEKU anda.</isisms></posh>";
                 String panjang = new Integer(urlParameters.length()).toString();
 	
 		// Send post request

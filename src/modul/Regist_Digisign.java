@@ -30,36 +30,48 @@ public class Regist_Digisign {
 	public Regist_Digisign(){}
 	public JSONObject jo=new JSONObject();
 	// HTTP POST request
-	public String sendPeminjam(String nama,String email,String telp,String kpos,String ktp,
-        String alamat,String prov,String kota,String camat,String lurah,
-        String jenkel,String tmp,String tgl,String npwp) throws Exception {
-                //this.idku=notrx;
-                String tos = null;
+	public String sendPeminjam(String nama,String email,String telp,String kpos,String ktp, String alamat,String prov,String kota,String camat,String lurah, String jenkel,String tmp,String tgl,String npwp) throws Exception {
+
+	    String tos = null;
 		String url = "http://api.davestpay.com/vPA/regist";
-                //String url = "http://183.91.70.178/vPA/submit_digisign";
+        //String url = "http://183.91.70.178/vPA/submit_digisign";
 		URL obj = new URL(url);
 		HttpURLConnection con = (HttpURLConnection) obj.openConnection();
 
-                Random rn=new Random();
-                int num=rn.nextInt(10000);
+        Random rn=new Random();
+        int num=rn.nextInt(10000);
          
 		//add reuqest header
 		
-                /*jo.put("nama", nama);
-                jo.put("email", email);
-                jo.put("telephonel", telp);
-                jo.put("trx_amount", jum);
-                jo.put("day_expired", 1);
-                jo.put("deskripsi","Tagihan Pinjaman DoeKu");
-                
-                String urlParameters = jo.toString();;*/
-                String urlParameters = "nama="+nama+
-                "&email="+email+
-                "&tlp="+telp+"&kpos="+kpos+"&alamat="+alamat+
-		"&ktp="+ktp+"&prov="+prov+"&kota="+kota+"&camat="+camat+"&lurah="+lurah+
-		"&jenkel="+jenkel+"&tmp="+tmp+"&tgl="+tgl+"&npwp="+npwp;
-         
-                String panjang = new Integer(urlParameters.length()).toString();
+        /*jo.put("nama", nama);
+        jo.put("email", email);
+        jo.put("telephonel", telp);
+        jo.put("trx_amount", jum);
+        jo.put("day_expired", 1);
+        jo.put("deskripsi","Tagihan Pinjaman DoeKu");
+
+        String urlParameters = jo.toString();;*/
+//        String x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14;
+//        x1 = "Andi";
+//        x2 = "alexanderwibowo@hotmail.com";
+//        x3 = "081355137000";
+//        x4 = "90111";
+//        x5 = "1";
+//        x6 = "1";
+//        x7 = "1";
+//        x8 = "1";
+//        x9 = "1";
+//        x10 = "1";
+//        x11 = "1";
+//        x12 = "1";
+//        x13 = "1";
+//        x14 = "1";
+
+//        String urlParameters = "nama="+x1+"&email="+x2+"&tlp="+x3+"&kpos="+x4+"&alamat="+x5+"&ktp="+x6+"&prov="+x7+"&kota="+x8+"&camat="+x9+"&lurah="+x10+"&jenkel="+x11+"&tmp="+x12+"&tgl="+x13+"&npwp="+x14;
+
+
+        String urlParameters = "nama="+nama+"&email=doeku5@tandatanganku.com&tlp="+telp+"&kpos="+kpos+"&alamat="+alamat+"&ktp="+ktp+"&prov="+prov+"&kota="+kota+"&camat="+camat+"&lurah="+lurah+"&jenkel="+jenkel+"&tmp="+tmp+"&tgl="+tgl+"&npwp="+npwp;
+        String panjang = new Integer(urlParameters.length()).toString();
 	
 		// Send post request
 		con.setDoOutput(true);
@@ -73,14 +85,16 @@ public class Regist_Digisign {
 		System.out.println("Post parameters : " + urlParameters);
 		System.out.println("Response Code : " + responseCode);
 
-		BufferedReader in = new BufferedReader(
-		        new InputStreamReader(con.getInputStream()));
+		BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
 		String inputLine;
 		StringBuffer response = new StringBuffer();
 
 		while ((inputLine = in.readLine()) != null) {
 			response.append(inputLine);
 		}
+
+		System.out.println("Response Regist :"+response.toString());
+
 		in.close();
 
 		//print result
@@ -115,8 +129,7 @@ public class Regist_Digisign {
                     e.getMessage();
                 }*/
                 
-                return tos;
-
+        return tos;
 	}
 
 	public String doPayment(String idTrx, String debitNumber, String creditNumber, String valueAmount, String emailAddress,

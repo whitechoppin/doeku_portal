@@ -79,7 +79,7 @@ public class CEK_BRW extends Konf{
             tgl_masuk = statv.getString("tgl_masukx"); 
             nama_d = statv.getString("nama_dx"); 
             hub_d = statv.getString("hub_dx"); 
-            alamat_d = statv.getString("alamat_dx"); 
+            alamat_d = statv.getString("alamat_dx");
             nikah = statv.getString("nikah");
             st_usaha = statv.getString("st_usaha");
             lengkap = statv.getString("lengkap");
